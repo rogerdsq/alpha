@@ -1,0 +1,1836 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>YHOO - Yahoo! Inc.
+- Google Finance</title>
+<META NAME="Description" CONTENT="Get the latest on Yahoo! Inc. (YHOO) including stock quotes, interactive charts, up to date news, high quality discussion groups and more on Google Finance.">
+<script>(function(){
+function b(a){this.t={};this.tick=function(d,e,c){var f=c?c:(new Date).getTime();this.t[d]=[f,e]};this.tick("start",null,a)}var g=new b;window.jstiming={Timer:b,load:g};try{window.jstiming.pt=window.external.pageT}catch(h){};function i(a){window.jstiming&&window.jstiming.load.tick(a)}window._tck=i;
+})();
+</script>
+<link rel="stylesheet" href="/finance/s/ZamEm45UDJs/styles_us.css">
+<meta name="robots" content="noindex">
+<script type="text/javascript" src="/finance/s/HBjwn5n5t8E/js/gen_flashhelper.js"></script>
+<script type="text/vbscript" src="/finance/s/HIifol0aThE/js/finance.vbs"></script>
+<style>
+#gbar{height:22px;padding-left:10px}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#guser{padding-bottom:7px !important}#gbar,#guser{font-size:13px;padding-top:4px !important}@media all{.gb1,.gb3{height:22px;margin-right:.73em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb3{color:#00c !important}.gb3{text-decoration:none}
+#events {
+width:100%;
+padding-top:0;
+margin-top:-5px;
+}
+#events td.date {
+white-space: nowrap;
+padding-right:2em;
+padding-left:0.5em;
+}
+</style>
+<script>
+<!--
+  
+  var _news_display_count = 10;
+  var _urlPrefix = '/finance';
+  var _ticker = 'NASDAQ:YHOO';
+  var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';
+  
+    var _slHeight = 300;
+  
+
+  var _newsArrowNewerActive = '/finance/s/u3GhIxyCem4/images/news_arrow_newer_active.gif';
+  var _newsArrowNewerDisabled = '/finance/s/X01qPv2zjbo/images/news_arrow_newer_disabled.gif';
+  var _newsArrowOlderActive = '/finance/s/pfS_S3PWfpo/images/news_arrow_older_active.gif';
+  var _newsArrowOlderDisabled = '/finance/s/x9dfUXfI1Y8/images/news_arrow_older_disabled.gif';
+
+  var _companyName = 'Yahoo! Inc.';
+  var _newsdivHeight = 262;
+  
+    var _debugLevel = 0;
+  
+  
+    var _displayVolume = true;
+  
+  
+    var _minBucketDays = 1;
+  
+  
+    var _companyType = "PUBLIC";
+  
+  
+    var _companyId = 658890;
+  
+  
+    var _kAsyncKeydevsParam = "keydevs";
+  
+  
+    var _kAsyncKeydevsStartParam = "st";
+  
+  
+    var _kAsyncKeydevsEndParam = "et";
+  
+  
+    var _kAsyncKeydevsZoomLevelParam = "zoomdays";
+  
+  
+    var _kAsyncKeydevsGetRecentNewsParam = "recnews";
+  
+  
+    var _kCompanyIdParam = "cid";
+  
+  
+    var _kNumResultsParam = "num";
+  
+  
+    var _defaultZoomDays = 3;
+  
+  
+  var _daysForInitialKeydevs = _defaultZoomDays;
+  
+    var _topPaddingRight = 10;
+  
+
+  var _reuters_source_name = 'Reuters Key Development';
+  var _expected_hash_value = '';
+
+  var new_title = "";
+  function initCHPage() {
+    
+    
+  
+
+    
+    
+  _external_target = ""; 
+    _emitFlashChartOnLoad(
+        "/finance/s/Yfogngj7H4Y/chart.swf?hl=en&gl=us",
+        "/finance/s/Bxv-b2Nn5ms/fl2js/JavaScriptFlashGateway.swf",
+        _ticker, "chart_anchor", "market_data_div",
+        _chartConfigObject, 
+          "/finance/s/YpwVAWxWrZw/chart9.swf?hl=en&gl=us", 
+          true, 
+        _timeZoneOffset);
+    google.finance.onCompanyLoad();
+    _rl();
+    
+    
+    _initAutoFocus();
+    _initCompareSettings();
+ }
+
+// -->
+</script>
+<script type="text/javascript" src="/finance/s/qfbym2pBW1M/js/gen_finance.js?hl=en&gl=us"></script>
+<script type="text/javascript">
+(function(){
+var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var b=document.styleSheets,a=b.length-1;a>=0;--a){var c=b[a].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return b[a]}return null}function f(){var b=e();if(b){var a=b.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var b=0;b<document.scripts.length;++b){var a=document.scripts[b];if(a&&a.src.indexOf("/js/gen_finance.js")!=-1)return a}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var b=g();if(b&&b.src){var a=b.src.indexOf("?")!=-1?"&":"?";b.src+=a+"zx="+Math.random()}}if(!f()){var c=e();if(c&&c.href){var a=c.href.indexOf("?")!=-1?"&":"?";c.href+=a+"zx="+Math.random()}}}};
+_chkCssJs();})();
+  
+    _setStickyUrlParams("");
+  </script>
+<style>
+html {
+min-height: 100%; margin-bottom: 0.01em;
+}
+.content {
+padding-left:5px;
+padding-bottom: 2.0em;
+}
+.content .item {
+padding-top:0.4em;
+padding-bottom:0.4em;
+}
+#related td { text-align:right }
+#management table {padding:2px 2px 2px 2px;}
+#management td { line-height:1.3em; padding:2px 3px 2px 3px; vertical-align: top}
+.blogref a:link,.blogref a:active,.blogref a:visited,.blogref {color:#7777CC}
+.lac {text-decoration:underline; color:#00C; cursor:pointer;}
+.lnac {text-decoration:none; color:#A1A1A1; cursor:text;}
+.imgac {cursor:pointer; border:0px;}
+.imgnac {cursor:none; border:0px;}
+.pr {font-size:260%; margin:-5px 0 -5px 0; font-weight:bold;}
+/* portraits */
+#m {}
+#management .gb {padding:2px 0 0 5px;}
+#m tr td.p,#m tr td.t {border:1px solid #FFF;}
+#m tr td.p{border-right:0px; white-space:nowrap;}
+#m tr.over td.p {background-color:#EFEFEF; border-top:1px solid #999999; border-left:1px solid #999999; border-bottom:1px solid #333333;}
+#m tr.over td.t {background-color:#EFEFEF; border-top:1px solid #999999; border-right:1px solid #333333; border-bottom:1px solid #EEE; border-left:1px solid #EEE;}
+#m tr.hide-m td {margin:0px;padding:0px;height:0px;border:0px;}
+#m tr.hide-m img.pic {border:2px solid #0000cc;cursor:pointer; margin-right:5px; float:right;}
+.fc {
+padding-left:5px; padding-bottom:5px; padding-right:5px;
+display:none; background-color:#EFEFEF;
+position:absolute;
+border:1px solid #333333; border-left-color:#999999; border-top:0px;
+}
+.r {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em; position:absolute; display:none; z-index:10;
+border:2px solid #9DDF99; background-color:#FFF;
+}
+</style>
+</head>
+<body class=has-min onLoad="initCHPage();" onResize="_initCompareSettings();"
+      
+      onUnload="window.google.Quote.stopQuotes();"
+      
+      bgcolor="#ffffff"
+      topmargin=0 marginheight=0>
+<div id=gbar><nobr><a href="http://www.google.com/search?q=yhoo&sa=N&hl=en&tab=ew" class=gb1>Web</a> <a href="http://images.google.com/images?q=yhoo&sa=N&hl=en&tab=ei" class=gb1>Images</a> <a href="http://maps.google.com/maps?q=yhoo&sa=N&hl=en&tab=el" class=gb1>Maps</a> <a href="http://news.google.com/news?q=yhoo&sa=N&hl=en&tab=en" class=gb1>News</a> <a href="http://video.google.com/videosearch?q=yhoo&sa=N&hl=en&tab=ev" class=gb1>Video</a> <a href="http://mail.google.com/mail/?hl=en&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com/intl/en/options/" class=gb3><u>more</u> &raquo;</a></nobr></div><div class=gbh style=left:0></div>
+<div id=guser style="text-align:right;">
+<span class=gaiabar style="white-space:nowrap">
+<a href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%3A80%2Ffinance%2Fportfolio%3Faction%3Dview">Portfolios</a> |
+<a href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3Dyhoo">Sign In</a>
+</span>
+</div>
+<script>window.locale={hl:'en',gl:'us',locale:'en-US'};</script>
+<table cellpadding=0 cellspacing=0 border=0 style="margin-left:6px">
+<tr>
+<td width=150 valign=top><a href="/finance">
+<img src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Google Finance Home." border=0 height=58 width=150 class=hsprite id=logo_small style="margin:5px 9px 0 0">
+</a></td>
+<td style="padding:6px 0 0 1px;white-space:nowrap;" height=58>
+<form method="get" action="/finance" name="f" style="display:inline">
+<input name="q" id="searchbox" autocomplete="off" size=40 maxlength=2048 type=text tabindex=1 title="Quote search input" value="yhoo">&nbsp;<input type=submit value="Get quotes">&nbsp;
+<a href="/finance/stockscreener" class=screener-link >Stock screener</a>
+<script>
+<!--
+  
+  
+  if (_s_Store) {
+    
+      _s_Store._allowMatchAdvancedSearch = true;
+    var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+    _s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+  }
+
+  _ac_s_init();
+// -->
+</script>
+<br>
+<span class="searchExample">
+e.g. "CSCO" or "Google"</span>
+</form>
+</td>
+</tr>
+</table>
+<div class=dbody id=outer-wrapper>
+<div id=body-wrapper>
+<div class="g-section company-header">
+<div class="g-unit g-first">
+<div class=hdg-wrapper>
+<div class=tophdg>&nbsp;<h1>Yahoo! Inc.</h1> (Public, NASDAQ:YHOO)
+<span> - <a href="/finance/portfolio?action=add&addticker=NASDAQ%3AYHOO" >Add to Portfolio</a></span>
+</div>
+</div>
+</div>
+
+<script>
+<!--
+
+  _totalNumDivs =  + 100;
+
+  _ac_register(function (input, event) {
+      if (input.id == 'add_comparison_symbol') {
+        _comparison_charts_Store.baseTicker = "NASDAQ:YHOO";
+        return _comparison_charts_Store;
+      }
+  });
+
+  
+  _eventid = 'bQvoSbqHB6fYqwOKy7W9Dw';
+
+  
+    _enableTechnicalsFeature = false;
+  
+  
+  
+    var _prefs=_prefs||{};_prefs.hash="";
+  _prefs.feeds=_prefs.feeds||{};
+
+  _has_news = true;
+// -->
+</script>
+<noscript>
+<style type="text/css">
+.hidens { display:none; }
+</style>
+</noscript>
+<div class=g-unit>
+<div id=news-tabs style="display:none;">
+<div class="goog-tab goog-tab-selected"><a id=news_tab_title class=t>
+<b class=t><b class=t>News</b></b></a></div>
+<div class=goog-tab><a id=blogs_tab_title class=t>
+<b class=t><b class=t>Blogs</b></b></a></div>
+<div class=goog-tab><a id=plot_feeds_title class=t>
+<b class=t><b class=t>Feeds</b></b></a></div>
+</div>
+<div id=news-tabs-alt class=tophdg style="display:none;">
+&nbsp;<h3>News</h3></div>
+</div></div>
+<div class=clr></div>
+<div class="g-section g-company-body">
+<div class="g-unit g-first"><div class=g-wrap>
+<div id=no-news style="height:25px; display:none;"></div>
+<div id=news-wrapper class=fix-news-ads>
+<div id=news_div_cont>
+<div id=newer_news_link_div style="padding-top:4px;padding-bottom:2px;display:none;">
+<table cellpadding=1 width=100%><tr>
+<td valign=top width=1% style="padding-left:3px;padding-right:2px;">
+<a id="newer_news_img_link" class="text-decoration:none;"><img alt="&lt;" id="newer_news_img" width=19px height=20px class="imgnac" src="/finance/s/X01qPv2zjbo/images/news_arrow_newer_disabled.gif"></a>
+</td>
+<td style="padding-left:7px;">
+<a id="newer_news_link" href="javascript:_dn()" class="lnac">Newer news</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a id="latest_news_link" href="javascript:_dn()">Latest news</a>
+</td>
+</tr></table>
+</div>
+<div id="hoverdiv" onMouseOver="_showRelatedDiv()" onMouseOut="_hideRelatedDiv()" class="related"></div>
+<div id="newsouterdiv" width="100%" style="z-index:1;height:262px;position:relative;overflow:hidden;width:100%;">
+<div id="newshidingdiv" width="100%" style="z-index:1;height:262px;position:relative;overflow:hidden;width:100%;">
+<div id="newsmovingdiv" style="z-index:1;position:absolute;top:0px;width:100%;">
+<div id="dd0" class=newsCluster>
+<div id="dd0time" class=newsHidden>1239907918</div>
+<div id="dd0id" class=newsHidden>1335010263</div>
+<div id="dd0inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinA onclick='_imageClicked("0");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-0" href="http://news.moneycentral.msn.com/provider/providerarticle.aspx?feed=ACBJ&date=20090416&id=9794172" rel="nofollow" >Cedar Fair considers asset sale</a></td>
+</tr>
+<tr><td class=source>MSN Money&nbsp;-
+<span class=date>10 hours ago</span>
+</td></tr></table></div>
+</div>
+<div id="dd1" class=newsCluster>
+<div id="dd1time" class=newsHidden>1239904462</div>
+<div id="dd1id" class=newsHidden>1333709476</div>
+<div id="dd1inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinB onclick='_imageClicked("1");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-1" href="http://www.rttnews.com/Content/TopStories.aspx?Node=B1&Id=914485&Category=Top%20Stories" rel="nofollow" >Google Q1 Earnings Preview</a></td>
+</tr>
+<tr><td class=source>RTT News&nbsp;-
+<span class=date>10 hours ago</span>
+</td></tr></table></div>
+<div id="dd1inner1" style="padding-left:35px;">
+<a id="n-i-1r1" href="http://247wallst.com/2009/04/16/googles-earnings-controversy-goog-yhoo-bidu/" rel="nofollow" >Google’s Earnings Controversy (GOOG, YHOO, BIDU)</a>
+<font color="#6f6f6f">&nbsp;24/7 Wall St.</font></div>
+<div style="padding-left:35px;" id="dd1inner">
+<a id="n-i-1a" href="http://news.google.com?ned=us&ncl=http%3A%2F%2Fwww.rttnews.com%2FContent%2FTopStories.aspx%3FNode%3DB1%26Id%3D914485%26Category%3DTop%2520Stories" class=rg >Related&nbsp;articles&raquo;</a>
+</div>
+</div>
+<div id="dd2" class=newsCluster>
+<div id="dd2time" class=newsHidden>1239848460</div>
+<div id="dd2id" class=newsHidden>1579477</div>
+<div id="dd2inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinC onclick='_imageClicked("2");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-2" href="http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66&symbol=YHOO&timestamp=20090416022100" rel="nofollow" >Yahoo! Inc. To Tender Its Stake In GMarket Inc. To eBay Inc.</a></td>
+</tr>
+<tr><td class=source>Reuters Key Development&nbsp;-
+<span class=date>Apr 16, 2009</span>
+</td></tr></table></div>
+</div>
+<div id="dd3" class=newsCluster>
+<div id="dd3time" class=newsHidden>1239796328</div>
+<div id="dd3id" class=newsHidden>1334265295</div>
+<div id="dd3inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinD onclick='_imageClicked("3");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-3" href="http://news.moneycentral.msn.com/provider/providerarticle.aspx?feed=ACBJ&date=20090415&id=9788217" rel="nofollow" >Top Yahoo sales exec takes Facebook job</a></td>
+</tr>
+<tr><td class=source>MSN Money&nbsp;-
+<span class=date>Apr 15, 2009</span>
+</td></tr></table></div>
+<div id="dd3inner1" style="padding-left:35px;">
+<a id="n-i-3r1" href="http://www.businessinsider.com/facebook-poaches-top-yahoo-sales-exec-2009-4" rel="nofollow" >Facebook Poaches Top Yahoo Sales Exec</a>
+<font color="#6f6f6f">&nbsp;The Business Insider</font></div>
+<div id="dd3inner2" style="padding-left:35px;">
+<a id="n-i-3r2" href="http://vator.tv/news/show/2009-04-15-facebook-snags-yahoo-sales-exec" rel="nofollow" >Facebook snags Yahoo sales exec</a>
+<font color="#6f6f6f">&nbsp;VatorNews</font></div>
+<div style="padding-left:35px;" id="dd3inner">
+<a id="n-i-3a" href="http://news.google.com?ned=us&ncl=http%3A%2F%2Fnews.moneycentral.msn.com%2Fprovider%2Fproviderarticle.aspx%3Ffeed%3DACBJ%26date%3D20090415%26id%3D9788217" class=rg >Related&nbsp;articles&raquo;</a>
+</div>
+</div>
+<div id="dd4" class=newsCluster>
+<div id="dd4time" class=newsHidden>1239796080</div>
+<div id="dd4id" class=newsHidden>1579045</div>
+<div id="dd4inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinE onclick='_imageClicked("4");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-4" href="http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66&symbol=YHOO&timestamp=20090415114800" rel="nofollow" >Yahoo! Inc. To Cut Hundreds Of Jobs-Reuters</a></td>
+</tr>
+<tr><td class=source>Reuters Key Development&nbsp;-
+<span class=date>Apr 15, 2009</span>
+</td></tr></table></div>
+</div>
+<div id="dd5" class=newsCluster>
+<div id="dd5time" class=newsHidden>1239792235</div>
+<div id="dd5id" class=newsHidden>1334219496</div>
+<div id="dd5inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinF onclick='_imageClicked("5");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-5" href="http://www.businesswire.com/news/google/20090415005382/en" rel="nofollow" >Former Yahoo! Executive, Dmitri Krakovsky, Joins SuccessFactors as ...</a></td>
+</tr>
+<tr><td class=source>Business Wire (press release)&nbsp;-
+<span class=date>Apr 15, 2009</span>
+-<a class=rg id="hover5link" href="http://news.google.com/news?ned=us&ncl=http%3A%2F%2Fwww.businesswire.com%2Fnews%2Fgoogle%2F20090415005382%2Fen"  onMouseOver=_showRelated("hover5") onMouseOut=_hideRelated("hover5")>Related&nbsp;articles&nbsp;&raquo;</a>
+</td></tr>
+<tr><td><div id="hover5ph"></div></td></tr></table></div>
+</div>
+<div id="dd6" class=newsCluster>
+<div id="dd6time" class=newsHidden>1239791675</div>
+<div id="dd6id" class=newsHidden>1334384700</div>
+<div id="dd6inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinG onclick='_imageClicked("6");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-6" href="http://www.contentsutra.com/entry/419-monster.coms-arun-tadanki-is-yahoo-india-md/" rel="nofollow" >Monster.com’s Arun Tadanki Is Yahoo India MD</a></td>
+</tr>
+<tr><td class=source>ContentSutra&nbsp;-
+<span class=date>Apr 15, 2009</span>
+-<a class=rg id="hover6link" href="http://news.google.com/news?ned=us&ncl=http%3A%2F%2Fwww.contentsutra.com%2Fentry%2F419-monster.coms-arun-tadanki-is-yahoo-india-md%2F"  onMouseOver=_showRelated("hover6") onMouseOut=_hideRelated("hover6")>Related&nbsp;articles&nbsp;&raquo;</a>
+</td></tr>
+<tr><td><div id="hover6ph"></div></td></tr></table></div>
+</div>
+<div id="dd7" class=newsCluster>
+<div id="dd7time" class=newsHidden>1239778582</div>
+<div id="dd7id" class=newsHidden>1334589799</div>
+<div id="dd7inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinH onclick='_imageClicked("7");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-7" href="http://www.eweek.com/c/a/Search-Engines/Google-Yahoo-Lead-US-Core-Search-Market-692514/" rel="nofollow" >Google, Yahoo Lead US Core Search Market</a></td>
+</tr>
+<tr><td class=source>eWeek&nbsp;-
+<span class=date>Apr 15, 2009</span>
+</td></tr></table></div>
+<div id="dd7inner1" style="padding-left:35px;">
+<a id="n-i-7r1" href="http://www.informationweek.com/blog/main/archives/2009/04/googles_gain_is.html" rel="nofollow" >Google's Gain Is Yahoo's Pain</a>
+<font color="#6f6f6f">&nbsp;InformationWeek</font></div>
+<div id="dd7inner2" style="padding-left:35px;">
+<a id="n-i-7r2" href="http://www.legalbrief.co.za/article.php?story=20090415085204889" rel="nofollow" >Microsoft and Yahoo in talks over possible partnership</a>
+<font color="#6f6f6f">&nbsp;Legalbrief (subscription)</font></div>
+<div style="padding-left:35px;" id="dd7inner3">
+<a id="n-i-7r3" href="http://www.m-travel.com/news/2009/04/microsoft-and-yahoo-in-talks-for-an-advertising-partnership-report.html"  rel="nofollow" class=g >m-Travel.com</a>
+-
+<a id="n-i-7r4" href="http://business.techwhack.com/5192-yahoo-cut-jobs"  rel="nofollow" class=g >TechWhack</a>
+-
+<a id="n-i-7r5" href="http://www.tmcnet.com/usubmit/-advertisers-will-spend-18-billion-mobile-media-2007-/2009/04/15/4133188.htm"  rel="nofollow" class=g >TMC Net</a>
+-
+<a id="n-i-7a" href="http://news.google.com?ned=us&ncl=http%3A%2F%2Fwww.eweek.com%2Fc%2Fa%2FSearch-Engines%2FGoogle-Yahoo-Lead-US-Core-Search-Market-692514%2F" class=rg >Related&nbsp;articles&raquo;</a>
+</div>
+</div>
+<div id="dd8" class=newsCluster>
+<div id="dd8time" class=newsHidden>1239744420</div>
+<div id="dd8id" class=newsHidden>1578438</div>
+<div id="dd8inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinI onclick='_imageClicked("8");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-8" href="http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66&symbol=YHOO&timestamp=20090414212700" rel="nofollow" >Time Warner Inc.'s AOL Seeks Ruling Ad Platform Doesn't Infringe ...</a></td>
+</tr>
+<tr><td class=source>Reuters Key Development&nbsp;-
+<span class=date>Apr 14, 2009</span>
+</td></tr></table></div>
+</div>
+<div id="dd9" class=newsCluster>
+<div id="dd9time" class=newsHidden>1239739106</div>
+<div id="dd9id" class=newsHidden>1333930196</div>
+<div id="dd9inner0" class=inner>
+<table width=100% cellspacing=0 cellpadding=1>
+<tr>
+<td valign=top width=1% rowspan=2 class=pin>
+<img alt="" src=/finance/s/m4C5KaofCbA/images/cleardot.gif
+                   width=19 height=20 class=csprite id=pinJ onclick='_imageClicked("9");' style='cursor:pointer;cursor:hand'>
+</td>
+<td class=title><a id="n-9" href="http://online.wsj.com/article/SB123975779258819193.html" rel="nofollow" >Yahoo's Bartz Sets New Round of Cuts</a></td>
+</tr>
+<tr><td class=source>Wall Street Journal&nbsp;-
+<span class=date>Apr 14, 2009</span>
+</td></tr></table></div>
+<div id="dd9inner1" style="padding-left:35px;">
+<a id="n-i-9r1" href="http://blogs.reuters.com/mediafile/2009/04/15/yahoo-planning-more-job-cuts/" rel="nofollow" >Yahoo planning more job cuts</a>
+<font color="#6f6f6f">&nbsp;Reuters</font></div>
+<div id="dd9inner2" style="padding-left:35px;">
+<a id="n-i-9r2" href="http://news.moneycentral.msn.com/provider/providerarticle.aspx?feed=ACBJ&date=20090415&id=9788895" rel="nofollow" >Reports: More Yahoo job cuts on the way</a>
+<font color="#6f6f6f">&nbsp;MSN Money</font></div>
+<div style="padding-left:35px;" id="dd9inner3">
+<a id="n-i-9r3" href="http://www.google.com/hostednews/ap/article/ALeqM5iI57bi7VvncVOZxIT9g1dNhfyLVwD97ILOB80"  rel="nofollow" class=g >The Associated Press</a>
+-
+<a id="n-i-9r4" href="http://www.financialexpress.com/news/yahoo-to-cut-hundreds-of-jobs-source/447192/"  rel="nofollow" class=g >Financial Express</a>
+-
+<a id="n-i-9r5" href="http://www.businessweek.com/the_thread/techbeat/archives/2009/04/more_layoffs_co.html?chan=technology_technology+index+page_top+stories"  rel="nofollow" class=g >BusinessWeek</a>
+-
+<a id="n-i-9a" href="http://news.google.com?ned=us&ncl=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB123975779258819193.html" class=rg >Related&nbsp;articles&raquo;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=older_news_link_div style="padding-top:4px;padding-bottom:2px;display:none;">
+<table cellpadding=1 width=100%>
+<tr>
+<td valign=top width=1% style="padding-left:3px;padding-right:2px;">
+<a id="older_news_img_link" href="javascript:_olderNews()" style="text-decoration:none;">
+<img alt="&gt;" id="older_news_img" width=19px height=20px class="imgac" src="/finance/s/pfS_S3PWfpo/images/news_arrow_older_active.gif">
+</a>
+</td>
+<td style="padding-left:7px;">
+<a id="older_news_link" href="javascript:_olderNews()">Older news</a>
+&nbsp;|&nbsp;
+<a id=all_news href="/finance?morenews=10&rating=1&q=NASDAQ:YHOO">View all news for YHOO &raquo;</a>
+&nbsp;|&nbsp;
+<a href="/finance?morenews=10&rating=1&q=NASDAQ:YHOO&output=rss">Subscribe</a>
+<a href="/finance?morenews=10&rating=1&q=NASDAQ:YHOO&output=rss"><img style="margin:0 0 -1px 0;vertical-align:bottom;" class=csprite id=subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." width=15 height=15 /></a>
+</td>
+</tr>
+</table>
+</div>
+<noscript>
+<div style="padding-top:4px;padding-bottom:2px;padding-left:34px;padding-right:2px;">
+<a href="/finance?morenews=10&rating=1&q=NASDAQ:YHOO">View all news for YHOO &raquo;</a></div>
+</noscript>
+<script>
+<!--
+    document.getElementById('newer_news_link_div').style.display = 'block';
+    document.getElementById('older_news_link_div').style.display = 'block';
+  // -->
+</script>
+</div>
+<div id=blogs_div_cont style="display:none"></div>
+<div id=plot_feed_div_cont style="display:none"></div>
+</div><script>_tck('aft');</script>
+<div id=ad-target class=ads-300-250></div>
+<div id=ad-label class=invisible>Advertisement</div>
+<div id=groups>
+<div class=hdg>
+&nbsp;<h3>Discussions</h3>
+</div>
+<div class=content>
+<div class=item>
+<a id="g-0" href="/group/google.finance.658890/t/48dc4f7b2bc17103" >Re: VIX leads the way</a>
+<br>
+<span style="white-space:nowrap;">
+<font color="#6f6f6f"> sandp500..@gmail.com </font>
+- 2 hours ago
+&nbsp;&nbsp;(3 posts)
+</span>
+<br>
+If you want to improve your success trading Yahoo, market internals will help greatly. Yahoo does not exist alone in the world, but is part of the world&#39;s largest market. ...
+</div>
+<div class=item>
+<a id="g-1" href="/group/google.finance.658890/t/7138c62bbb488206" >Re: SPSN settled patent wif SAMSUNG for 70 MILLIONs</a>
+<br>
+<span style="white-space:nowrap;">
+<font color="#6f6f6f"> mhohmann </font>
+- 13 hours ago
+&nbsp;&nbsp;(2 posts)
+</span>
+<br>
+and? it&#39;s down
+</div>
+<div class=item>
+<a id="g-2" href="/group/google.finance.658890/t/d711eee03f88eb27" >MAKE MORE MONEY!!!!!</a>
+<br>
+<span style="white-space:nowrap;">
+<font color="#6f6f6f"> micha..@gmail.com </font>
+- 21 hours ago
+&nbsp;&nbsp;(1 post)
+</span>
+<br>
+I hated researching on my own.. this one site finds the best picks and best of all is that they give their ideas away for free StocksRock.net
+</div>
+<div class=item>
+<a href="/groups/finance?cid=658890&hl=en" >More discussions &raquo;</a>
+</div>
+</div>
+</div>
+<div class=hdg style=margin-bottom:0.5em;>&nbsp;<h3>Events</h3></div>
+<div class=content>
+<table id="events" cellpadding=4 cellspacing=0>
+<tr>
+<td class=date width=1% valign=top>
+Jun 25, 2009
+</td>
+<td valign=top>
+Shareholders Meeting&nbsp;
+<span style="white-space:nowrap;">
+- 1:00PM EDT&nbsp;
+</span><nobr><img alt="" src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width=16 height=16 class=csprite id=calendar>&nbsp;<a id=event_0 onclick="_GF_click('', 'add_cal_evnt', 'YHOO', '')" href= "http://www.google.com/calendar/event?hl=en&action=TEMPLATE&text=Yahoo%2C+Inc.+Shareholders+Meeting&dates=20090625T170000Z/20090625T180000Z&sprop=finance" >Add to calendar</a></nobr>
+</td>
+</tr>
+<tr>
+<td class=date width=1% valign=top>
+Apr 21, 2009
+</td>
+<td valign=top>
+Q1 2009 Earnings Conference Call&nbsp;
+<span style="white-space:nowrap;">
+- 5:00PM EDT&nbsp;
+</span><nobr><img alt="" src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width=16 height=16 class=csprite id=calendar>&nbsp;<a id=event_1 onclick="_GF_click('', 'add_cal_evnt', 'YHOO', '')" href= "http://www.google.com/calendar/event?hl=en&action=TEMPLATE&text=Q1+2009+Yahoo%2C+Inc.+Earnings+Conference+Call&dates=20090421T210000Z/20090421T220000Z&sprop=finance" >Add to calendar</a></nobr>
+</td>
+</tr>
+<tr>
+<td class=date width=1% valign=top>
+Apr 21, 2009
+</td>
+<td valign=top>
+Q1 2009 Earnings Release&nbsp;
+<span style="white-space:nowrap;">
+- 4:00PM EDT&nbsp;
+</span><nobr><img alt="" src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width=16 height=16 class=csprite id=calendar>&nbsp;<a id=event_2 onclick="_GF_click('', 'add_cal_evnt', 'YHOO', '')" href= "http://www.google.com/calendar/event?hl=en&action=TEMPLATE&text=Q1+2009+Yahoo%2C+Inc.+Earnings+Release&dates=20090421T200000Z/20090421T210000Z&sprop=finance" >Add to calendar</a></nobr>
+</td>
+</tr>
+<tr>
+<td class=date width=1% valign=top>
+Mar 3, 2009
+</td>
+<td valign=top>
+Morgan Stanley Technology Conference&nbsp;
+<span style="white-space:nowrap;">
+</span><nobr><img alt="" src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width=19 height=16 class=csprite id=webcast>&nbsp;<a id=cast_3 onclick="_GF_click('', 'webcast', 'YHOO', '')" href="http://web.servicebureau.net/conf/meta?i=1113093677&amp;c=2343&amp;m=was&amp;u=/w_ccbn.xsl&amp;date_ticker=YHOO" >Webcast</a></nobr>
+</td>
+</tr>
+<tr>
+<td class=date width=1% valign=top>
+Feb 26, 2009
+</td>
+<td valign=top>
+Jefferies &amp; Co. Internet &amp; Media Conference&nbsp;
+<span style="white-space:nowrap;">
+</td>
+</tr>
+<tr>
+<td class=date width=1% valign=top>
+Feb 25, 2009
+</td>
+<td valign=top>
+Goldman Sachs Technology and Internet Conference&nbsp;
+<span style="white-space:nowrap;">
+</td>
+</tr>
+<tr>
+<td class=date width=1% valign=top>
+Jan 27, 2009
+</td>
+<td valign=top>
+Q4 2008 Earnings Conference Call&nbsp;
+<span style="white-space:nowrap;">
+</td>
+</tr>
+<tr>
+<td class=date width=1% valign=top>
+Jan 27, 2009
+</td>
+<td valign=top>
+Q4 2008 Earnings Release&nbsp;
+<span style="white-space:nowrap;">
+</td>
+</tr>
+</table> <!-- End EVENTS -->
+<table><tr>
+<td style="padding-left:0.25em;">
+<a id=all_events href="http://finance.aol.com/event/YHOO/usa" >
+More events from AOL Finance &raquo;</a>&nbsp;
+&nbsp;&nbsp;<nobr><img src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width=16 height=16 class=csprite id=calendar alt="">
+<a onclick="_GF_click('', 'add_ical', 'YHOO', '')" href="http://www.google.com/calendar/render?hl=en&cid=http://www.google.com:80%2Ffinance%2Fevents%3Fq%3DNASDAQ%3AYHOO%26output%3Dical" >Add YHOO to my calendars</a></nobr>
+</td>
+</tr></table>
+</div>
+<div class=hdg>&nbsp;<h3>More&nbsp;Resources</h3></div>
+<div class=content>
+<div class=item style="line-height:1.6em;">
+<nobr><a id=m-analyst
+                 href=http://www.marketwatch.com/tools/quotes/snapshot.asp?symb=YHOO&pg=analyst >Analyst Estimates</a> - <font color="#6F6F6F">MarketWatch</font></nobr><br>
+<nobr><a id=m-sec
+                 href=http://google.brand.edgar-online.com?sym=YHOO >SEC Filings</a> - <font color="#6F6F6F">EDGAR Online</font></nobr><br>
+<nobr><a id=m-hold
+                 href=http://moneycentral.msn.com/investor/invsub/ownership/ownership.asp?Symbol=YHOO >Major Holders</a> - <font color="#6F6F6F">MSN Money</font></nobr><br>
+<nobr><a id=m-options
+                 href=http://quote.morningstar.com/Option/Options.aspx?sLevel=A&ticker=YHOO >Options</a> - <font color="#6F6F6F">Morningstar</font></nobr><br>
+<nobr><a id=m-research
+                 href=http://finance.yahoo.com/q/rr?s=YHOO >Research Reports</a> - <font color="#6F6F6F">Yahoo Finance</font></nobr><br>
+<nobr><a id=m-wiki href="http://en.wikipedia.org/wiki/Yahoo%21" > About Company</a>
+- <font color="#6F6F6F">Wikipedia</font></nobr><br>
+<nobr><a id=m-transcripts href="http://www.seekingalpha.com/transcripts/for/YHOO" >Transcripts</a>
+- <font color="#6F6F6F">SeekingAlpha</font></nobr><br>
+</div>
+</div>
+<div id=management style="margin-bottom:1.5em;">
+<div class=hdg id="mgmtdiv" width="100%">&nbsp;<h3>Officers and directors</h3></div>
+<table cellpadding="0" cellspacing="0" width="100%"><tbody id="m">
+<tr id="m1">
+<td width=25% class=p>Roy J. Bostock&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m1t>Chairman of the Board</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m1d" class=fc>
+<img width=1 height=1 border=0 align=right>
+Age: 68<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=475025" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</div>
+<tr id="m2">
+<td width=25% class=p>Carol A. Bartz&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m2t>Chief Executive Officer, Director</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m2d" class=fc>
+<img width=1 height=1 border=0 align=right>
+Age: 60<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=1282655" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</div>
+<tr id="m3">
+<td width=25% class=p>Blake J. Jorgensen&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m3t>Chief Financial Officer</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m3d" class=fc>
+<img width=1 height=1 border=0 align=right>
+Age: 48<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=966288" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</div>
+<tr id="m4">
+<td width=25% class=p>Jerry Yang&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m4t>Chief Yahoo, Director</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m4d" class=fc>
+<img width=1 height=1 border=0 align=right>
+Age: 40<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=2885" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<a class=e-t href="http://biz.yahoo.com/t/97/369.html" >Trading&nbsp;Activity</a>&nbsp;-&nbsp;<font color="#606060">Yahoo&nbsp;Finance</font><br>
+</div>
+<tr id="m5">
+<td width=25% class=p>David Filo&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m5t>Chief Yahoo</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m5d" class=fc>
+<img width=1 height=1 border=0 align=right>
+Age: 41<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=2879" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<a class=e-t href="http://biz.yahoo.com/t/98/369.html" >Trading&nbsp;Activity</a>&nbsp;-&nbsp;<font color="#606060">Yahoo&nbsp;Finance</font><br>
+</div>
+<tr id="m6">
+<td width=25% class=p>Michael J. Callahan&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m6t>Executive Vice President, General Counsel, Secretary</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m6d" class=fc>
+<img width=1 height=1 border=0 align=right>
+Age: 39<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=396503" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<a class=e-t href="http://biz.yahoo.com/t/61/5941.html" >Trading&nbsp;Activity</a>&nbsp;-&nbsp;<font color="#606060">Yahoo&nbsp;Finance</font><br>
+</div>
+<tr id="m7">
+<td width=25% class=p>Michael A. Murray&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m7t>Senior Vice President - Finance, Chief Accounting Officer</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m7d" class=fc>
+<img width=1 height=1 border=0 align=right>
+Age: 51<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=570039" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</div>
+<tr id="m8">
+<td width=25% class=p>Jeff Dossett&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m8t>Senior Vice President, U.S. Audience</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m8d" class=fc>
+<img width=1 height=1 border=0 align=right>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=1258653" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</div>
+<tr id="m9">
+<td width=25% class=p>Aristotle N. Balogh&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m9t>Chief Technology Officer</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m9d" class=fc>
+<img width=1 height=1 border=0 align=right>
+Age: 44<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=1117365" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</div>
+<tr id="m10">
+<td width=25% class=p>Elisa Steele&nbsp;<font color="#0000cc"><small>&gt;</small></font></td>
+<td width=75% class=t id=m10t>Chief Marketing Officer</td>
+</tr>
+<tr class=hide-m>
+<td>
+<td>
+<div id="m10d" class=fc>
+<img width=1 height=1 border=0 align=right>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=YHOO.O&officerId=1310345" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</div>
+</table> <div class=gb>
+<a href="http://stocks.us.reuters.com/stocks/officersDirectors.asp?symbol=YHOO.O&WTmodLOC=C4-Officers-5" >
+Full list on Reuters &raquo;</a></div>
+</div>
+</div></div>
+<div class=g-unit><div class=sfe-break-right><div class=g-wrap>
+<div id="market_data_n_chart_div" width="100%">
+<!-- MARKET DATA AND CHART -->
+<table valign="top" width="100%" cellpadding="0" cellspacing="0" border="0">
+<!-- MARKET DATA -->
+<tr>
+<td width="100%" colspan=2>
+<div id="market_data_div" style="padding:5px 0 0 0;" >
+<table width="100%" border="0" id="md" cellspacing="0" cellpadding="1">
+<tr>
+<td width="1%" rowspan="4" valign="bottom">
+<span class="pr" id="ref_658890_l">14.37</span><br>
+<span class=bld><span class="chg" id="ref_658890_c">+0.35</span></span>
+<span class="chg" id="ref_658890_cp">(2.50%)</span><br>
+Apr 16 - Close
+</td>
+<td>&nbsp;</td>
+<td width="1%" class=key>Open:</td>
+<td width="1%" class=val><span id="ref_658890_op">14.12</span></td>
+<td>&nbsp;</td>
+<td width="1%" class=key>Mkt Cap:</td>
+<td width="1%" class=val><span id="ref_658890_mc">20.03B</span></td>
+<td>&nbsp;</td>
+<td width="1%" class=key>P/E:</td>
+<td width="1%" class=val><span id="ref_658890_pe">50.67</span></td>
+<td>&nbsp;</td>
+<td width="1%" class=key>Dividend:</td>
+<td width="1%" class=val><span id="ref_658890_latest_div">&nbsp;&nbsp;&nbsp;&nbsp;-</span></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td class=key>High:</td>
+<td class=val><span id="ref_658890_hi">14.53</span></td>
+<td>&nbsp;</td>
+<td class=key>52Wk High:</td>
+<td class=val><span id="ref_658890_hi52">29.73</span></td>
+<td>&nbsp;</td>
+<td width="1%" class=key>F P/E:</td>
+<td width="1%" class=val>&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+<td>&nbsp;</td>
+<td width="1%" class=key>Yield:</td>
+<td width="1%" class=val><span id="ref_658890_div_yield">&nbsp;&nbsp;&nbsp;&nbsp;-</span></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td class=key>Low:</td>
+<td class=val><span id="ref_658890_lo">14.05</span></td>
+<td>&nbsp;</td>
+<td class=key>52Wk Low:</td>
+<td class=val><span id="ref_658890_lo52">8.94</span></td>
+<td>&nbsp;</td>
+<td class=key>Beta:</td>
+<td class=val><span id="ref_658890_beta">0.83</span></td>
+<td>&nbsp;</td>
+<td width="1%" class=key>Shares:</td>
+<td width="1%" class=val><span id="ref_658890_shares">1.39B</span></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td class=key>Vol:</td>
+<td class=val><span id="ref_658890_vo">19.16M</span></td>
+<td>&nbsp;</td>
+<td class=key>Avg Vol:</td>
+<td class=val>19.42M</td>
+<td>&nbsp;</td>
+<td class=key>EPS:</td>
+<td class=val>0.28</td>
+<td>&nbsp;</td>
+<td width="1%" class=key>Inst. Own:</td>
+<td width="1%" class=val><span id="ref_658890_inst_own">72%</span></td>
+</tr>
+<tr><td colspan=13><div>
+<div style="float:left; padding-top:5px">
+<span style="color:black;white-space:normal">
+<nobr><span class=bld>After Hours: <span id="ref_658890_el">14.36</span>
+<span id="ref_658890_ec" class="chr">-0.01</span>
+</span>
+<span id="ref_658890_ecp" class="">(-0.07%)</span> -
+<span style="white-space:normal;" id="ref_658890_elt">
+Apr 16, 7:59PM EDT</span>
+</span></nobr>
+</div>
+<div class=rgt style="float:right; padding-top:5px;">
+<span class=dis-large><nobr>NASDAQ Real-time data -
+<a href=
+  "http://www.google.com/help/stock_disclaimer.html#realtime"
+  class=dis-large>Disclaimer</a>
+</nobr></span>
+</div><div class=clr></div></div>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr id="tabsTR">
+<td id="lefttabs">
+<div id="lefttabsgroup">
+<ul>
+<li id="comparetab">
+<a href=""
+       onclick="javascript:_windowGroup._showTab('compare',true); return false;">
+Compare
+</a>
+</li>
+<li id="settingstab">
+<a href=""
+       onclick="javascript:_windowGroup._showTab('settings',true); return false;">
+Settings
+</a>
+</li>
+<li id="blanktab"><a>&nbsp;</a></li>
+</ul>
+</div>
+</td>
+<td id="righttabs">
+<span id="righttabsgroup">
+<ul>
+<li id="linktoviewtab">
+<a href=""
+       onclick="javascript:_windowGroup._showTab('linktoview',true); return false;">
+<img width="16" hight="9" alt="Link to view icon."
+            id="linktoviewimg"
+            src="/finance/s/VG0xWTjyxB4/images/link.gif" />
+Link&nbsp;to&nbsp;chart
+</a>
+</li>
+<li id="historicalpricestab">
+<a href="/finance/historical?q=NASDAQ:YHOO">Historical&nbsp;Prices</a>
+</li>
+<li id="blanktab"><a>&nbsp;</a></li>
+</ul>
+</span>
+</td>
+<!-- Print link to historical prices if script is disabled
+                  because print_right_tabgroup() will be hidden. -->
+<noscript>
+<td width="100%" align="right">
+<a href="/finance/historical?q=NASDAQ:YHOO">Historical&nbsp;Prices</a>
+</td>
+</noscript>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+<div id="linktoview"></div>
+<div id="compare"></div>
+<div id="settings"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<!-- CHART -->
+<tr valign="top">
+<td align="center" colspan=2 width=100% bgcolor=white>
+<div id=chart_anchor>
+<script type="text/javascript">
+var _minZoomDays = 1;
+var _timeZoneOffset = '-18000';
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = true;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_defaultZoomDays = 3;
+_daysForInitialKeydevs = _defaultZoomDays;
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.corpActionsArray = eval('([{"_quote":"NASD:YHOO","_type":"split","_date":"873207000","_old_shares":"2","_new_shares":"3"},{"_quote":"NASD:YHOO","_type":"split","_date":"902151000","_old_shares":"1","_new_shares":"2"},{"_quote":"NASD:YHOO","_type":"split","_date":"918484200","_old_shares":"1","_new_shares":"2"},{"_quote":"NASD:YHOO","_type":"split","_date":"950538600","_old_shares":"1","_new_shares":"2"},{"_quote":"NASD:YHOO","_type":"split","_date":"1084368600","_old_shares":"1","_new_shares":"2"},])');
+_chartConfigObject.companyCurrency = 'USD';
+_chartConfigObject.displayDividendsUnits = 'true';
+var configStringFromCookie = '{}';
+var configString = unescape(configStringFromCookie);
+var obj = eval('(' + configString + ')');
+for (var attribute in obj) {
+_chartConfigObject[attribute] = obj[attribute];
+}
+if (_chartConfigObject['defaultZoomDays']) {
+_defaultZoomDays = Math.max(_chartConfigObject['defaultZoomDays'],
+_minZoomDays);
+}
+_data_5d = 'EXCHANGE%3DNASDAQ\x0AMARKET_OPEN_MINUTE=570\x0AMARKET_CLOSE_MINUTE=960\x0AINTERVAL=120\x0ACOLUMNS=DATE,CLOSE,VOLUME\x0ADATA=\x0ATIMEZONE_OFFSET=-240\x0Aa1239629400,14.03,308598\x0A1,14.06,218276\x0A2,13.925,516199\x0A3,13.92,237115\x0A4,13.97,181689\x0A5,14.005,405620\x0A6,13.99,208037\x0A7,13.96,343306\x0A8,13.97,235321\x0A9,14.03,375284\x0A10,14.1,336633\x0A11,14.14,472449\x0A12,14.2099,530723\x0A13,14.24,381791\x0A14,14.21,685180\x0A15,14.3,327964\x0A16,14.4273,500130\x0A17,14.43,385236\x0A18,14.472,433348\x0A19,14.45,333811\x0A20,14.34,489468\x0A21,14.4,192172\x0A22,14.419,155474\x0A23,14.33,267499\x0A24,14.27,379534\x0A25,14.33,246620\x0A26,14.38,495957\x0A27,14.422,561441\x0A28,14.42,294686\x0A29,14.48,335823\x0A30,14.4205,327207\x0A31,14.42,491716\x0A32,14.45,211289\x0A33,14.46,179179\x0A34,14.4588,154291\x0A35,14.359,257301\x0A36,14.36,174733\x0A37,14.3301,101175\x0A38,14.3,214998\x0A39,14.285,102501\x0A40,14.32,212526\x0A41,14.3325,181320\x0A42,14.26,145286\x0A43,14.27,141727\x0A44,14.2899,93998\x0A45,14.275,54032\x0A46,14.23,258489\x0A47,14.15,325486\x0A48,14.13,224305\x0A49,14.071,275915\x0A50,14.07,179573\x0A51,14.15,191511\x0A52,14.1815,116814\x0A53,14.2,134629\x0A54,14.25,303336\x0A55,14.27,158659\x0A56,14.26,132389\x0A57,14.24,200206\x0A58,14.25,105115\x0A59,14.3,118528\x0A60,14.3,84117\x0A61,14.29,95146\x0A62,14.2918,99442\x0A63,14.24,148705\x0A64,14.2399,59914\x0A65,14.22,51176\x0A66,14.24,33256\x0A67,14.22,65678\x0A68,14.21,100717\x0A69,14.2,95038\x0A70,14.23,112793\x0A71,14.18,156457\x0A72,14.16,138708\x0A73,14.16,73957\x0A74,14.17,148618\x0A75,14.19,66306\x0A76,14.2,240493\x0A77,14.21,71544\x0A78,14.24,61523\x0A79,14.22,171804\x0A80,14.23,37295\x0A81,14.24,71839\x0A82,14.2301,43873\x0A83,14.23,41399\x0A84,14.25,38746\x0A85,14.25,37857\x0A86,14.22,112511\x0A87,14.25,63947\x0A88,14.221,38404\x0A89,14.25,31057\x0A90,14.25,62190\x0A91,14.25,104756\x0A92,14.24,57342\x0A93,14.2503,73600\x0A94,14.24,61480\x0A95,14.23,62333\x0A96,14.24,42263\x0A97,14.229,39053\x0A98,14.2,71478\x0A99,14.2,23387\x0A100,14.22,24089\x0A101,14.24,35902\x0A102,14.2488,21154\x0A103,14.25,34572\x0A104,14.25,23370\x0A105,14.26,79879\x0A106,14.26,20074\x0A107,14.26,80768\x0A108,14.29,117712\x0A109,14.29,41266\x0A110,14.2701,33925\x0A111,14.29,52225\x0A112,14.3,51111\x0A113,14.3,21470\x0A114,14.32,109257\x0A115,14.38,131135\x0A116,14.41,186283\x0A117,14.3925,84377\x0A118,14.37,66193\x0A119,14.39,98583\x0A120,14.42,88164\x0A121,14.43,115166\x0A122,14.45,94966\x0A123,14.46,217624\x0A124,14.45,211821\x0A125,14.42,123843\x0A126,14.4188,99319\x0A127,14.385,87512\x0A128,14.38,51742\x0A129,14.41,98935\x0A130,14.4,89834\x0A131,14.4,117401\x0A132,14.3804,33780\x0A133,14.41,233606\x0A134,14.41,221192\x0A135,14.4099,42231\x0A136,14.4225,85992\x0A137,14.41,82308\x0A138,14.4,97405\x0A139,14.39,75982\x0A140,14.39,58203\x0A141,14.3795,120695\x0A142,14.39,50748\x0A143,14.39,69431\x0A144,14.39,90986\x0A145,14.42,101135\x0A146,14.42,227220\x0A147,14.47,207551\x0A148,14.4395,75016\x0A149,14.4,32746\x0A150,14.3988,95899\x0A151,14.37,51431\x0A152,14.34,317750\x0A153,14.37,89882\x0A154,14.37,51170\x0A155,14.36,136841\x0A156,14.33,64246\x0A157,14.37,87398\x0A158,14.3395,98658\x0A159,14.28,212391\x0A160,14.26,149501\x0A161,14.3401,203075\x0A162,14.3599,91328\x0A163,14.4201,75923\x0A164,14.38,197819\x0A165,14.35,83627\x0A166,14.42,137655\x0A167,14.43,125344\x0A168,14.44,125026\x0A169,14.44,65426\x0A170,14.45,283416\x0A171,14.44,62487\x0A172,14.4501,111144\x0A173,14.47,237210\x0A174,14.49,155632\x0A175,14.49,70907\x0A176,14.5,324777\x0A177,14.49,195742\x0A178,14.49,180659\x0A179,14.49,99739\x0A180,14.49,101116\x0A181,14.46,255844\x0A182,14.481,215056\x0A183,14.489,109213\x0A184,14.4712,190249\x0A185,14.4612,155574\x0A186,14.47,125107\x0A187,14.47,88135\x0A188,14.5,539430\x0A189,14.435,354461\x0A190,14.402,274841\x0A191,14.45,169142\x0A192,14.45,318105\x0A193,14.43,247583\x0A194,14.42,346734\x0A195,14.42,775883\x0A196,14.42,390\x0A720,14.31,361\x0A721,14.31,359894\x0A722,14.24,125851\x0A723,14.22,163544\x0A724,14.19,140827\x0A725,14.19,171991\x0A726,14.215,155760\x0A727,14.21,95836\x0A728,14.15,195676\x0A729,14.12,166308\x0A730,14.17,193096\x0A731,14.16,175368\x0A732,14.19,128360\x0A733,14.21,236771\x0A734,14.1684,103684\x0A735,14.14,91830\x0A736,14.1625,110613\x0A737,14.2,53145\x0A738,14.18,86731\x0A739,14.1301,102300\x0A740,14.12,55961\x0A741,14.15,109602\x0A742,14.13,32613\x0A743,14.13,106422\x0A744,14.12,134161\x0A745,14.12,44840\x0A746,14.1192,34312\x0A747,14.14,105404\x0A748,14.1499,71489\x0A749,14.161,66701\x0A750,14.2,52432\x0A751,14.2401,79430\x0A752,14.25,35390\x0A753,14.23,133326\x0A754,14.26,125900\x0A755,14.2699,83402\x0A756,14.26,103260\x0A757,14.23,51217\x0A758,14.22,97445\x0A759,14.21,62468\x0A760,14.19,28372\x0A761,14.1973,15559\x0A762,14.21,90806\x0A763,14.17,95019\x0A764,14.15,80216\x0A765,14.14,48997\x0A766,14.15,50732\x0A767,14.16,35107\x0A768,14.14,164345\x0A769,14.11,143387\x0A770,14.12,30898\x0A771,14.11,42257\x0A772,14.13,41645\x0A773,14.14,30768\x0A774,14.14,14023\x0A775,14.12,64287\x0A776,14.07,138068\x0A777,14.05,309275\x0A778,14.1,51548\x0A779,14.12,55102\x0A780,14.12,49518\x0A781,14.14,90801\x0A782,14.15,106740\x0A783,14.17,127731\x0A784,14.17,46564\x0A785,14.15,108740\x0A786,14.14,20324\x0A787,14.11,80988\x0A788,14.1,49843\x0A789,14.11,85059\x0A790,14.09,49405\x0A791,14.08,35554\x0A792,14.09,36937\x0A793,14.1,18200\x0A794,14.11,10542\x0A795,14.12,13307\x0A796,14.13,16835\x0A797,14.1227,74452\x0A798,14.13,14240\x0A799,14.14,31893\x0A800,14.13,12220\x0A801,14.14,9545\x0A802,14.14,19100\x0A803,14.11,68555\x0A804,14.105,45183\x0A805,14.1225,24141\x0A806,14.11,30560\x0A807,14.12,11504\x0A808,14.14,21571\x0A809,14.13,12328\x0A810,14.13,59237\x0A811,14.14,35141\x0A812,14.13,6579\x0A813,14.15,18087\x0A814,14.15,16182\x0A815,14.15,10182\x0A816,14.15,9674\x0A817,14.12,48300\x0A818,14.11,57623\x0A819,14.08,36752\x0A820,14.06,122531\x0A821,14.0599,55325\x0A822,14.0388,93735\x0A823,14.03,67310\x0A824,14.02,95236\x0A825,14.02,35847\x0A826,14.04,48720\x0A827,14.0301,18762\x0A828,14.0305,21632\x0A829,14.03,24723\x0A830,14.0288,18137\x0A831,14.02,40072\x0A832,14.01,20642\x0A833,14.03,71368\x0A834,14.03,24704\x0A835,14.03,5189\x0A836,14.03,23827\x0A837,14.03,23856\x0A838,14.04,7150\x0A839,14.04,15744\x0A840,14.05,82035\x0A841,14.0401,15320\x0A842,14.049,47941\x0A843,14.05,20635\x0A844,14.05,53180\x0A845,14.02,84939\x0A846,14.04,34848\x0A847,14.04,11777\x0A848,14.03,18081\x0A849,14.02,39419\x0A850,14.0299,31636\x0A851,14.02,8125\x0A852,14.02,104642\x0A853,14.015,58555\x0A854,14.02,66721\x0A855,14.0315,50463\x0A856,14.04,13500\x0A857,14.03,40476\x0A858,14.015,39100\x0A859,14.0101,61448\x0A860,14.01,75640\x0A861,14.005,16976\x0A862,14.02,39242\x0A863,14.03,45802\x0A864,14.02,100709\x0A865,14.02,77780\x0A866,14.02,22506\x0A867,14.02,20883\x0A868,14.03,81030\x0A869,14.03,19482\x0A870,14.05,73203\x0A871,14.0505,12138\x0A872,14.03,41116\x0A873,14.04,5935\x0A874,14.035,10223\x0A875,14.05,40080\x0A876,14.05,24415\x0A877,14.05,186062\x0A878,14.06,16415\x0A879,14.05,16262\x0A880,14.0527,17854\x0A881,14.02,139597\x0A882,14.01,26821\x0A883,14.02,39936\x0A884,14.015,10349\x0A885,14.1,106111\x0A886,14.12,285202\x0A887,14.11,42413\x0A888,14.1,57081\x0A889,14.09,25674\x0A890,14.1,28585\x0A891,14.09,91105\x0A892,14.1,138835\x0A893,14.0999,58485\x0A894,14.1199,44742\x0A895,14.16,88489\x0A896,14.13,71210\x0A897,14.11,87086\x0A898,14.12,26431\x0A899,14.1,268813\x0A900,14.105,53381\x0A901,14.1,49475\x0A902,14.09,59067\x0A903,14.09,59411\x0A904,14.1,127271\x0A905,14.085,66308\x0A906,14.11,182335\x0A907,14.1,49728\x0A908,14.0888,31593\x0A909,14.13,84780\x0A910,14.09,89228\x0A911,14.09,121530\x0A912,14.1,111615\x0A913,14.09,198208\x0A914,14.0601,192578\x0A915,14.07,403173\x0A916,14.07,284445\x0Aa1239802200,13.93,174\x0A1,13.98,121681\x0A2,13.945,69875\x0A3,14.08,114425\x0A4,14,80945\x0A5,13.9699,105783\x0A6,13.93,149778\x0A7,13.92,100678\x0A8,13.9202,205649\x0A9,13.85,123378\x0A10,13.7901,127920\x0A11,13.86,54728\x0A12,13.83,275902\x0A13,13.77,71015\x0A14,13.8099,121378\x0A15,13.86,127623\x0A16,13.885,91668\x0A17,13.96,170520\x0A18,13.98,219894\x0A19,14,109780\x0A20,14.04,106070\x0A21,14.04,90525\x0A22,14.03,76816\x0A23,14.03,56260\x0A24,14.02,24073\x0A25,14.02,101914\x0A26,14.02,81972\x0A27,14,63602\x0A28,14,29734\x0A29,13.98,38550\x0A30,13.98,23788\x0A31,13.95,51091\x0A32,13.96,58276\x0A33,13.97,32597\x0A34,13.94,25333\x0A35,13.96,35222\x0A36,13.96,20587\x0A37,13.96,36220\x0A38,13.95,55595\x0A39,13.94,111099\x0A40,13.91,66881\x0A41,13.9,42818\x0A42,13.915,80643\x0A43,13.94,61300\x0A44,13.86,141502\x0A45,13.87,100147\x0A46,13.88,26619\x0A47,13.88,35804\x0A48,13.86,25678\x0A49,13.89,36414\x0A50,13.89,28333\x0A51,13.87,68107\x0A52,13.87,20568\x0A53,13.87,34524\x0A54,13.88,85950\x0A55,13.88,20209\x0A56,13.8812,21900\x0A57,13.905,64245\x0A58,13.91,7200\x0A59,13.92,27999\x0A60,13.93,38165\x0A61,13.9394,30571\x0A62,13.94,21017\x0A63,13.94,24845\x0A64,13.93,11775\x0A65,13.9395,11500\x0A66,13.95,83578\x0A67,13.95,12746\x0A68,13.9401,21394\x0A69,13.93,94309\x0A70,13.92,42494\x0A71,13.91,27979\x0A72,13.87,47238\x0A73,13.86,53888\x0A74,13.88,153853\x0A75,13.9078,54324\x0A76,13.93,7793\x0A77,13.91,55415\x0A78,13.87,61554\x0A79,13.888,66041\x0A80,13.88,43870\x0A81,13.88,18665\x0A82,13.89,16147\x0A83,13.88,14023\x0A84,13.88,63681\x0A85,13.88,14592\x0A86,13.87,61845\x0A87,13.85,9949\x0A88,13.86,31909\x0A89,13.86,45752\x0A90,13.855,17783\x0A91,13.85,92059\x0A92,13.83,49606\x0A93,13.85,34138\x0A94,13.8401,41746\x0A95,13.85,4800\x0A96,13.84,35821\x0A97,13.84,29260\x0A98,13.86,22815\x0A99,13.85,27206\x0A100,13.84,10124\x0A101,13.84,21325\x0A102,13.87,74505\x0A103,13.87,35432\x0A104,13.87,32285\x0A105,13.88,34672\x0A106,13.88,143271\x0A107,13.9,65740\x0A108,13.93,25085\x0A109,13.91,43556\x0A110,13.89,34052\x0A111,13.9,25800\x0A112,13.87,12286\x0A113,13.88,10239\x0A114,13.87,20435\x0A115,13.858,34368\x0A116,13.88,44076\x0A117,13.89,13411\x0A118,13.87,39386\x0A119,13.8899,25445\x0A120,13.89,3277\x0A121,13.9,21850\x0A122,13.91,15000\x0A123,13.9282,28628\x0A124,13.93,14629\x0A125,13.9,49451\x0A126,13.9,33112\x0A127,13.892,5038\x0A128,13.8993,14148\x0A129,13.91,29504\x0A130,13.88,27526\x0A131,13.88,30436\x0A132,13.88,6987\x0A133,13.87,9349\x0A134,13.86,34065\x0A135,13.87,51090\x0A136,13.85,51267\x0A137,13.88,52246\x0A138,13.87,37906\x0A139,13.88,38800\x0A140,13.87,22775\x0A141,13.86,23828\x0A142,13.84,41149\x0A143,13.84,9300\x0A144,13.812,38335\x0A145,13.8,48956\x0A146,13.8,32206\x0A147,13.81,19300\x0A148,13.81,9213\x0A149,13.81,4729\x0A150,13.8,36379\x0A151,13.82,27523\x0A152,13.81,31529\x0A153,13.81,49654\x0A154,13.81,49268\x0A155,13.81,13068\x0A156,13.79,55475\x0A157,13.79,22212\x0A158,13.8,16452\x0A159,13.81,17140\x0A160,13.82,22940\x0A161,13.82,27105\x0A162,13.82,13320\x0A163,13.79,49906\x0A164,13.7704,27712\x0A165,13.79,55552\x0A166,13.8,47047\x0A167,13.8,80484\x0A168,13.7999,54777\x0A169,13.8,24571\x0A170,13.7923,61975\x0A171,13.81,9038\x0A172,13.85,107411\x0A173,13.84,42844\x0A174,13.85,106449\x0A175,13.8712,44595\x0A176,13.89,54490\x0A177,13.89,88102\x0A178,13.89,63612\x0A179,13.9,94424\x0A180,13.89,143049\x0A181,13.86,284672\x0A182,13.87,143254\x0A183,13.88,144374\x0A184,13.89,121010\x0A185,13.88,30318\x0A186,13.9499,243042\x0A187,13.92,40778\x0A188,13.93,113203\x0A189,13.95,64077\x0A190,14,185791\x0A191,14,116626\x0A192,13.99,220026\x0A193,14.04,217653\x0A194,14.0482,297219\x0A195,14.02,325465\x0A196,14.02,219321\x0A720,14.15,200\x0A721,14.14,201872\x0A722,14.16,82900\x0A723,14.11,117546\x0A724,14.19,73546\x0A725,14.2,49445\x0A726,14.161,45382\x0A727,14.06,184309\x0A728,14.11,87997\x0A729,14.06,191733\x0A730,14.09,43326\x0A731,14.1,70054\x0A732,14.07,44999\x0A733,14.08,41115\x0A734,14.09,94573\x0A735,14.1,26427\x0A736,14.09,59124\x0A737,14.09,18214\x0A738,14.09,31674\x0A739,14.09,28157\x0A740,14.1,26885\x0A741,14.13,90712\x0A742,14.08,84856\x0A743,14.07,19510\x0A744,14.12,50588\x0A745,14.12,38357\x0A746,14.12,40578\x0A747,14.13,116504\x0A748,14.14,46196\x0A749,14.14,8831\x0A750,14.1599,1271034\x0A751,14.21,130781\x0A752,14.22,50532\x0A753,14.25,142505\x0A754,14.26,549956\x0A755,14.31,409232\x0A756,14.3,214350\x0A757,14.31,152418\x0A758,14.28,171338\x0A759,14.2499,104987\x0A760,14.27,101500\x0A761,14.29,36524\x0A762,14.28,108164\x0A763,14.212,256708\x0A764,14.23,76973\x0A765,14.2299,82221\x0A766,14.25,60932\x0A767,14.24,59514\x0A768,14.24,25508\x0A769,14.24,72588\x0A770,14.24,24375\x0A771,14.23,23495\x0A772,14.25,27897\x0A773,14.24,43588\x0A774,14.24,22951\x0A775,14.23,49627\x0A776,14.2301,28350\x0A777,14.23,14013\x0A778,14.25,104757\x0A779,14.225,37811\x0A780,14.24,18807\x0A781,14.24,28445\x0A782,14.24,14165\x0A783,14.27,138087\x0A784,14.26,49030\x0A785,14.2701,75153\x0A786,14.26,43788\x0A787,14.26,30345\x0A788,14.26,31300\x0A789,14.261,46065\x0A790,14.2698,75099\x0A791,14.27,93469\x0A792,14.26,58424\x0A793,14.28,21017\x0A794,14.27,38180\x0A795,14.27,35103\x0A796,14.28,83950\x0A797,14.27,65373\x0A798,14.27,109290\x0A799,14.28,70319\x0A800,14.27,35555\x0A801,14.3,86460\x0A802,14.29,37338\x0A803,14.28,52784\x0A804,14.25,105583\x0A805,14.23,112891\x0A806,14.26,105024\x0A807,14.3,192104\x0A808,14.27,311075\x0A809,14.23,75896\x0A810,14.23,41381\x0A811,14.23,8760\x0A812,14.24,53400\x0A813,14.23,4163\x0A814,14.23,5490\x0A815,14.22,82182\x0A816,14.225,5360\x0A817,14.225,4806\x0A818,14.265,49159\x0A819,14.3,34795\x0A820,14.31,16336\x0A821,14.3001,419864\x0A822,14.34,185930\x0A823,14.335,60279\x0A824,14.34,92191\x0A825,14.35,5066\x0A826,14.35,8500\x0A827,14.35,76102\x0A828,14.35,52423\x0A829,14.34,52679\x0A830,14.34,13400\x0A831,14.35,34388\x0A832,14.35,20745\x0A833,14.35,34750\x0A834,14.341,36850\x0A835,14.35,138154\x0A836,14.35,29950\x0A837,14.35,25088\x0A838,14.35,24520\x0A839,14.35,29625\x0A840,14.345,9309\x0A841,14.3499,14579\x0A842,14.34,11653\x0A843,14.35,40182\x0A844,14.34,27775\x0A845,14.32,76091\x0A846,14.3,61844\x0A847,14.3,15791\x0A848,14.29,6245\x0A849,14.32,65581\x0A850,14.312,22645\x0A851,14.32,20612\x0A852,14.34,26801\x0A853,14.33,52662\x0A854,14.36,69540\x0A855,14.38,51247\x0A856,14.38,12300\x0A857,14.38,18978\x0A858,14.3799,55418\x0A859,14.38,41072\x0A860,14.38,23933\x0A861,14.39,56844\x0A862,14.4,32885\x0A863,14.38,51298\x0A864,14.36,65401\x0A865,14.37,31492\x0A866,14.36,92937\x0A867,14.35,47979\x0A868,14.3918,209310\x0A869,14.4,96685\x0A870,14.4,84730\x0A871,14.39,38797\x0A872,14.4,52833\x0A873,14.4,51659\x0A874,14.39,42129\x0A875,14.4,30216\x0A876,14.4,217136\x0A877,14.4,138711\x0A878,14.43,127658\x0A879,14.44,263189\x0A880,14.4301,101560\x0A881,14.47,57988\x0A882,14.49,349165\x0A883,14.4901,239256\x0A884,14.5,218858\x0A885,14.47,401410\x0A886,14.43,144087\x0A887,14.43,95238\x0A888,14.42,40332\x0A889,14.45,105658\x0A890,14.4584,157987\x0A891,14.45,162779\x0A892,14.44,50167\x0A893,14.43,47381\x0A894,14.39,138007\x0A895,14.4,38052\x0A896,14.42,259489\x0A897,14.41,31404\x0A898,14.42,203723\x0A899,14.41,78754\x0A900,14.37,118433\x0A901,14.36,78875\x0A902,14.37,57275\x0A903,14.36,23584\x0A904,14.43,228214\x0A905,14.4518,123234\x0A906,14.45,110880\x0A907,14.41,144688\x0A908,14.41,87213\x0A909,14.4,104339\x0A910,14.32,200375\x0A911,14.4,188478\x0A912,14.35,147830\x0A913,14.4,219928\x0A914,14.37,350183\x0A915,14.42,399917\x0A916,14.43,399012\x0A';
+_data_5Y = 'EXCHANGE%3DNASDAQ\x0AMARKET_OPEN_MINUTE=570\x0AMARKET_CLOSE_MINUTE=960\x0AINTERVAL=604800\x0ACOLUMNS=DATE,CLOSE,VOLUME,CDAYS\x0ADATA=\x0ATIMEZONE_OFFSET=-240\x0Aa1082750400,28.375,110678600,5\x0A1,25.265,143319800,5\x0A2,26.4,111418600,5\x0A3,26.97,129042700,5\x0A4,28.55,89368300,5\x0A5,30.66,102415300,5\x0A6,31.87,90913800,4\x0A7,32.4,69399800,5\x0A8,32.07,63454700,5\x0A9,34.91,88803800,5\x0A10,33.94,104403500,5\x0A11,30.11,167130100,4\x0A12,29.19,88199400,5\x0A13,28.19,110055700,5\x0A14,30.8,105765000,5\x0A15,26.02,116673600,5\x0A16,27.49,102564500,5\x0A17,28.61,101802100,5\x0A18,29.3,62289100,5\x0A19,29.46,68841100,5\x0A20,31.08,61846500,4\x0A21,33.46,99195500,5\x0A22,32.58,82330800,5\x0A23,35.03,108847600,5\x0A24,34.17,83998000,5\x0A25,34.52,131040800,5\x0A26,34.96,119955100,5\x0A27,36.19,80081000,5\x0ATIMEZONE_OFFSET=-300\x0Aa1099688400,36.35,109217500,5\x0A1,37.8,77065800,5\x0A2,36.15,73832000,5\x0A3,37.81,54104000,4\x0A4,39.02,75060700,5\x0A5,38.02,71583300,5\x0A6,36.773,61382400,5\x0Aa1103835600,37.25,46573500,5\x0Aa1104526800,37.68,45906200,5\x0A1,35.96,108106800,5\x0A2,36.7,105294600,5\x0A3,35.3,131766300,4\x0A4,34.62,121196500,5\x0A5,35.02,104300100,5\x0A6,34.15,102223000,5\x0A7,33.6,89016100,5\x0A8,31.73,127298000,4\x0A9,32.36,95452300,5\x0A10,31.65,88398600,5\x0A11,31.11,91162300,5\x0Aa1111698000,31.41,74523800,5\x0Aa1112389200,34.28,123811100,5\x0ATIMEZONE_OFFSET=-240\x0Aa1112990400,34.76,102467800,5\x0A1,32.46,97305600,5\x0A2,34.87,154520300,5\x0A3,34.5,87475100,5\x0A4,34.52,88764100,5\x0A5,34.82,76253700,5\x0A6,36.33,85782500,5\x0A7,37.27,79025600,5\x0A8,37.92,65447000,4\x0A9,36.81,87374300,5\x0A10,36.3,74541900,5\x0A11,36.09,69680000,5\x0A12,34.44,67132100,5\x0A13,34.62,60859400,4\x0A14,36.58,82979400,5\x0A15,33.53,183679800,5\x0A16,33.34,87927400,5\x0A17,33.52,71135900,5\x0A18,34.6,76567800,5\x0A19,34,57258600,5\x0A20,33.57,83079800,5\x0A21,33.17,55489800,5\x0A22,33.46,56731000,4\x0A23,33.17,82075400,5\x0A24,32.13,84141200,5\x0A25,33.84,73619000,5\x0A26,34.16,75322300,5\x0A27,33.52,80622500,5\x0A28,35.29,171920700,5\x0A29,35.58,74487500,5\x0ATIMEZONE_OFFSET=-300\x0Aa1131138000,37.87,109265400,5\x0A1,38.49,63889400,5\x0A2,41.54,134826100,5\x0A3,42.13,83408600,4\x0A4,41.21,115872600,5\x0A5,40.31,70101600,5\x0A6,42.32,90305100,5\x0A7,40.63,58748300,5\x0A8,39.18,45042000,4\x0A9,43.21,85947300,4\x0A10,39.9,106233700,5\x0A11,33.74,164337600,4\x0A12,35.09,135969300,5\x0A13,33.54,151772800,5\x0A14,32.51,128999000,5\x0A15,32.76,103405700,5\x0A16,33.01,57104600,4\x0A17,31.45,115936600,5\x0A18,30.58,107196600,5\x0A19,30.07,98478400,5\x0A20,31.77,114048400,5\x0A21,32.26,92582700,5\x0ATIMEZONE_OFFSET=-240\x0Aa1144440000,32.27,77344200,5\x0Aa1144958400,31.13,61498000,5\x0Aa1145649600,32.89,168160400,5\x0A1,32.78,93791600,5\x0A2,32.66,83717700,5\x0A3,30.81,84911100,5\x0A4,29.53,138640100,5\x0A5,33.02,138763200,5\x0A6,31.52,70007800,4\x0A7,30.37,80450600,5\x0A8,30.36,84905100,5\x0A9,31.37,71471800,5\x0A10,33,76406000,5\x0A11,32.5,47080200,4\x0A12,32.08,74956700,5\x0A13,25.89,137119500,5\x0A14,27.47,128808800,5\x0A15,26.99,79394000,5\x0A16,27.5,68151800,5\x0A17,29.78,73277100,5\x0A18,28.77,45873100,5\x0A19,29.49,53539400,5\x0A20,28.14,51515900,4\x0A21,29.32,65511200,5\x0A22,25.52,145477200,5\x0A23,25.28,137357400,5\x0A24,25.47,100209800,5\x0A25,24.42,160578200,5\x0A26,23.21,181698600,5\x0A27,25.34,164488500,5\x0ATIMEZONE_OFFSET=-300\x0Aa1162587600,26.18,142295900,5\x0A1,27.39,120830500,5\x0A2,26.91,114118900,5\x0Aa1164391200,28.03,81926100,4\x0Aa1165006800,26.49,88413100,5\x0A1,26.34,129922100,5\x0A2,26.9,101013900,5\x0A3,25.55,103456500,5\x0A4,25.54,48633100,4\x0A5,27.74,122602600,3\x0A6,29.45,139603200,5\x0A7,27.639,90380300,4\x0A8,28.04,173817600,5\x0A9,28.77,77822300,5\x0A10,29.74,97941800,5\x0A11,31.91,125894100,5\x0A12,32.1,83833700,4\x0A13,30.42,129989500,5\x0A14,29.12,147864200,5\x0ATIMEZONE_OFFSET=-240\x0Aa1174075200,29.88,106843700,5\x0A1,31.36,72111400,5\x0A2,31.29,55859300,5\x0Aa1175803200,31.96,41655400,5\x0Aa1176494400,31.41,64571300,5\x0A1,27.46,145938000,5\x0A2,28.343,138652100,5\x0A3,30.98,168611100,5\x0A4,30.05,125608500,5\x0A5,29.75,129129300,5\x0A6,28.58,91275400,5\x0A7,28.78,55891300,4\x0A8,27.39,118598200,5\x0A9,27.31,105744500,5\x0A10,27.38,188625300,5\x0A11,27.13,89064800,5\x0A12,27.1,58540400,4\x0A13,26.58,100723200,5\x0A14,25.35,197862400,5\x0A15,23.49,138802900,5\x0A16,22.92,102505000,5\x0A17,23.94,111286500,5\x0A18,23.54,104772500,5\x0A19,23.59,79249300,5\x0A20,22.73,86299200,5\x0A21,23.76,89462200,4\x0A22,24.73,80012000,5\x0A23,26.05,128168200,5\x0A24,26.843,116748500,5\x0A25,27.88,89077000,5\x0A26,28.48,94335900,5\x0A27,29.03,197834700,5\x0A28,33.63,206286700,5\x0A29,31.11,224267200,5\x0ATIMEZONE_OFFSET=-300\x0Aa1194642000,25.79,259354700,5\x0A1,26.82,180286700,5\x0Aa1195840800,26.13,89415900,4\x0Aa1196456400,26.81,106174700,5\x0A1,25.63,79916600,5\x0A2,24.06,105548000,5\x0A3,24.01,131786000,5\x0A4,23.45,46552800,4\x0A5,23.16,78695600,4\x0A6,23.36,164839300,5\x0A7,20.78,155804600,5\x0A8,21.94,144180900,4\x0A9,28.38,181335200,5\x0A10,29.2,251569000,5\x0A11,29.66,235575600,5\x0A12,28.42,124122200,4\x0A13,27.78,137425400,5\x0A14,29.03,140419100,5\x0ATIMEZONE_OFFSET=-240\x0Aa1205524800,26.71,185946400,5\x0Aa1206043200,27.66,120774500,5\x0Aa1206734400,28.99,111134400,5\x0A1,28.36,100490900,5\x0A2,28.34,115085600,5\x0A3,28.43,68966200,5\x0A4,26.8,147458100,5\x0A5,28.67,212542100,5\x0A6,25.93,282890100,5\x0A7,27.66,311014000,5\x0A8,27.72,156254800,5\x0A9,26.76,75024100,4\x0A10,26.44,147728900,5\x0A11,23.47,77725300,5\x0A12,21.99,132323200,5\x0A13,21.33,181291000,5\x0Aa1215104400,21.35,124918700,5\x0Aa1215806400,23.57,171681000,5\x0A1,22.45,118685000,5\x0A2,21.13,135457400,5\x0A3,19.8,90386400,5\x0A4,19.9,69998100,5\x0A5,20.44,64093600,5\x0A6,19.53,69847700,5\x0A7,19.38,53366200,5\x0A8,18.08,68703500,4\x0A9,19.08,109210700,5\x0A10,19.89,161294100,5\x0A11,18.92,77501900,5\x0A12,16,116399600,5\x0A13,12.29,178535000,5\x0A14,12.9,124064500,5\x0A15,12.1,135970400,5\x0A16,12.82,108960000,5\x0ATIMEZONE_OFFSET=-300\x0Aa1226091600,12.2,191250700,5\x0A1,10.82,123445664,5\x0A2,9.39,191235809,5\x0Aa1227895200,11.51,66183296,4\x0Aa1228510800,11.66,136022249,5\x0A1,13.15,163164747,5\x0A2,13.03,84297731,5\x0A3,12.34,27081248,4\x0A4,12.85,37265655,4\x0A5,13.13,81170666,5\x0A6,11.59,121651198,5\x0A7,11.32,67681735,4\x0A8,11.73,133954737,5\x0A9,13.63,98006510,5\x0A10,12.84,80158904,5\x0A11,12.14,57150586,4\x0A12,13.23,102216369,5\x0A13,13.05,111001479,5\x0ATIMEZONE_OFFSET=-240\x0Aa1236974400,13.51,92580217,5\x0A1,13.6,111377618,5\x0A2,13.18,99061405,5\x0A3,13.34,89814517,5\x0Aa1239307200,13.47,52773843,4\x0A';
+_data_ah = 'EXCHANGE%3DNASDAQ\x0AMARKET_OPEN_MINUTE=570\x0AMARKET_CLOSE_MINUTE=960\x0AINTERVAL=120\x0ACOLUMNS=DATE,CLOSE,VOLUME\x0ADATA_SESSIONS=[AFTER_HOURS,960,1200],[PREMARKET,240,570]\x0ADATA=\x0ATIMEZONE_OFFSET=-240\x0Aa1239283800,13.1,240\x0A1,13.14,400\x0A196,13.47,2125\x0A197,13.5,1684\x0A198,13.45,3819\x0A199,13.3671,1500\x0A200,13.46,525\x0A201,13.351,450\x0A202,13.3575,2400\x0A203,13.45,800\x0A206,13.47,1500\x0A209,13.47,12173\x0A211,13.47,134191\x0A214,13.47,18360\x0A215,13.47,8030\x0A217,13.47,300\x0A219,13.45,500\x0A220,13.35,900\x0A230,13.44,100\x0A255,13.45,100\x0A257,13.47,854239\x0A288,13.44,400\x0A299,13.45,450\x0A305,13.45,100\x0Aa1239620760,13.9,470\x0A2,14.19,500\x0A5,14.5,400\x0A6,14.5,1760\x0A9,14.45,7900\x0A10,14.45,7700\x0A11,14.45,200\x0A12,14.45,200\x0A13,14.45,100\x0A14,14.46,4970\x0A15,14.45,6520\x0A16,14.45,3980\x0A17,14.25,5000\x0A18,14.3,10000\x0A19,14.3,400\x0A21,14.25,7500\x0A22,14.25,2700\x0A23,14.25,700\x0A24,14.25,400\x0A27,14.26,10050\x0A28,14.3,27624\x0A29,14.35,7160\x0A30,14.32,7260\x0A31,14.35,2481\x0A32,14.34,18939\x0A33,14.35,6050\x0A34,14.34,2350\x0A35,14.35,8150\x0A36,14.25,23500\x0A37,14.25,15800\x0A38,14.2,31415\x0A39,14.16,10600\x0A40,14.2,1900\x0A41,14.2,6000\x0A42,14.2,2500\x0A43,14.25,4950\x0A44,14.25,580\x0A45,14.25,2905\x0A46,14.3,730\x0A47,14.26,2000\x0A48,14.25,700\x0A49,14.25,8180\x0A50,14.2,9000\x0A51,14.2,12767\x0A52,14.15,2879\x0A53,14.15,2500\x0A54,14.24,3640\x0A55,14.2,2350\x0A56,14.15,2575\x0A57,14.22,2311\x0A58,14.23,24349\x0A59,14.25,17925\x0A60,14.25,10550\x0A61,14.25,14000\x0A62,14.2,2800\x0A63,14.19,500\x0A64,14.2,1950\x0A65,14.2,100\x0A66,14.2,4700\x0A67,14.2,700\x0A68,14.15,1915\x0A69,14.11,11235\x0A70,14.14,3200\x0A71,14.15,2100\x0A72,14.01,43452\x0A73,14.01,500\x0A268,14.39,24558\x0A269,14.4,5359\x0A270,14.38,700\x0A271,14.39,1595\x0A272,14.409,28820\x0A273,14.4221,8589\x0A274,14.454,1950\x0A275,14.4,1950\x0A277,14.45,1000\x0A278,14.42,819\x0A279,14.42,3550\x0A280,14.42,400\x0A281,14.42,175\x0A283,14.4,1200\x0A284,14.42,460\x0A287,14.43,200\x0A289,14.43,800\x0A290,14.49,4700\x0A291,14.49,500\x0A301,14.49,600\x0A302,14.45,200\x0A303,14.45,3231\x0A304,14.49,500\x0A305,14.48,2000\x0A306,14.4,2000\x0A307,14.4,500\x0A308,14.42,500\x0A311,14.42,100\x0A312,14.0011,88121\x0A313,14.41,100\x0A315,14.41,100\x0A316,14.4,1021\x0A317,14.41,600\x0A318,14.4,1000\x0A322,14.4,207\x0A324,14.4,100\x0A325,14.42,400\x0A326,14.4,1237\x0A327,14.4,300\x0A329,14.39,1200\x0A330,14.42,1297526\x0A333,14.42,700\x0A337,14.42,300\x0A339,14.38,250\x0A340,14.38,750\x0A343,14.4,1163\x0A348,14.45,1250\x0A366,14.47,300\x0A373,14.47,2200\x0A378,14.47,700\x0A379,14.47,300\x0A380,14.48,400\x0A381,14.48,100\x0A382,14.48,275\x0A385,14.48,200\x0A386,14.48,300\x0A387,14.48,750\x0A738,14.4,940\x0A741,14.39,400\x0A748,14.4,100\x0A750,14.3,830\x0A751,14.3,350\x0A752,14.3,2365\x0A754,14.45,100\x0A755,14.45,1400\x0A756,14.5,6080\x0A757,14.51,4032\x0A758,14.54,299\x0A759,14.55,1000\x0A760,14.51,700\x0A761,14.51,9064\x0A762,14.51,5000\x0A763,14.49,3178\x0A764,14.35,1220\x0A765,14.35,500\x0A766,14.35,200\x0A767,14.35,3180\x0A768,14.35,300\x0A769,14.35,1250\x0A770,14.3,6750\x0A771,14.3,3630\x0A772,14.27,440\x0A773,14.25,1000\x0A774,14.25,100\x0A775,14.35,1100\x0A780,14.27,125\x0A781,14.35,1620\x0A782,14.27,2640\x0A785,14.29,100\x0A786,14.3,200\x0A789,14.42,100\x0A791,14.42,1000\x0A792,14.35,2362\x0A793,14.34,546\x0A988,14.1,3900\x0A989,14.1,200\x0A990,14.15,2500\x0A991,14.06,20800\x0A993,14.06,5136\x0A994,14.04,41512\x0A995,14.104,7917\x0A996,14,3768\x0A997,13.99,1100\x0A998,14,2745\x0A999,14.07,23813\x0Aa1239740880,13.9,700\x0A11,14,500\x0A14,14.07,1443\x0A17,14,1250\x0A18,14,700\x0A19,14.05,500\x0A23,14.02,350\x0A31,14.07,9909\x0A33,14.1,1000\x0A35,14.1,1000\x0A36,14.1,1000\x0A37,14.1,1100\x0A39,14.1,2200\x0A40,14.1,11000\x0A41,14.1,8850\x0A42,14.07,3400\x0A46,14.01,300\x0A48,14.07,497747\x0A61,14.01,850\x0A63,14.04,1000\x0A67,14.02,100\x0A82,14.01,100\x0A83,14.01,3000\x0A86,14.01,700\x0A92,14,374\x0A93,14.01,581\x0A96,14.01,500\x0A100,14.04,100\x0A101,14.1,1500\x0A103,14.05,100\x0A104,14.1,100\x0A446,13.88,385\x0A463,14.18,385\x0A466,14.15,125\x0A467,13.88,100\x0A469,13.96,100\x0A471,14,225\x0A473,13.97,2600\x0A474,14,225\x0A478,14,100\x0A493,13.96,418\x0A495,13.95,160\x0A497,13.96,1875\x0A498,14,225\x0A499,13.96,200\x0A501,13.96,1230\x0A506,13.96,1000\x0A507,13.96,2350\x0A508,13.96,900\x0A511,13.94,200\x0A512,13.94,100\x0A707,14.04,1180\x0A708,14.02,2300\x0A709,14.05,3100\x0A711,13.9105,216\x0A712,14.02,21600\x0A713,14.06,20910\x0A714,13.9258,22305\x0A715,14.06,30200\x0A716,14.08,1600\x0A717,13.9129,100\x0A720,14.07,90364\x0A733,14.05,100\x0A736,14.06,1600\x0A737,14.06,1000\x0A739,14.06,400\x0A741,14.08,200\x0A745,14.07,500\x0A746,14.11,500\x0A749,14.1,500\x0A761,14.1,1000\x0A769,14.02,76191\x0A779,14.05,100\x0A788,14.1,1000\x0A821,14.05,400\x0A826,14.1,600\x0Aa1239883440,14.1,200\x0A7,14,200\x0A8,14.1,600\x0A9,14.05,660\x0A13,14.1,100\x0A15,14.1,200\x0A23,14.1,300\x0A24,14.1,1100\x0A25,14.1,250\x0A27,14.1,500\x0A28,14.1,1500\x0A32,14.09,700\x0A37,14.1,100\x0A40,14.1,200\x0A41,14.17,500\x0A42,14.17,1200\x0A43,14.15,1315\x0A44,14.16,1200\x0A239,14.3,71949\x0A240,14.43,4385\x0A241,14.63,6700\x0A242,14.63,9750\x0A243,14.6,9997\x0A244,14.66,12424\x0A245,14.61,7550\x0A246,14.55,6760\x0A247,14.59,950\x0A248,14.48,14233\x0A249,14.5,900\x0A250,14.5,3639\x0A251,14.54,2275\x0A252,14.54,200\x0A253,14.59,2121\x0A254,14.51,6420\x0A255,14.57,100\x0A256,14.6,7100\x0A257,14.51,7700\x0A258,14.5,4180\x0A259,14.56,4200\x0A260,14.55,29600\x0A261,14.43,8871\x0A262,14.5,5600\x0A263,14.5,3000\x0A264,14.45,650\x0A265,14.45,700\x0A266,14.42,2450\x0A267,14.41,932\x0A268,14.36,4000\x0A269,14.35,3250\x0A270,14.3,500\x0A271,14.3,300\x0A272,14.22,3500\x0A273,14.24,721\x0A274,14.24,400\x0A276,14.24,700\x0A277,14.24,100\x0A278,14.24,300\x0A279,14.24,200\x0A280,14.2,579\x0A281,14.17,3151\x0A282,14.22,370\x0A286,14.22,300\x0A288,14.29,300\x0A292,14.4,100\x0A293,14.25,400\x0A295,14.22,500\x0A298,14.23,3000\x0A299,14.25,100\x0A301,14.29,100\x0A303,14.22,1000\x0A308,14.2,3000\x0A309,14.2,200\x0A310,14.25,100\x0A312,14.3,600\x0A313,14.3,800\x0A315,14.34,222\x0A319,14.33,100\x0A329,14.32,400\x0A330,14.3,1900\x0A332,14.25,200\x0A336,14.25,1000\x0A344,14.3,500\x0A355,14.29,500\x0A358,14.36,900\x0A';
+_relatedTickers = [
+{ticker:'NASDAQ:GOOG', name:'GOOG', timezone_offset:-18000}
+,{ticker:'NASDAQ:MSFT', name:'MSFT', timezone_offset:-18000}
+,{ticker:'NYSE:TWX', name:'TWX', timezone_offset:-18000}
+,{ticker:'NASDAQ:NWSA', name:'NWSA', timezone_offset:-18000}
+,{ticker:'NASDAQ:EBAY', name:'EBAY', timezone_offset:-18000}
+,{ticker:'NYSE:VIA.B', name:'VIA.B', timezone_offset:-18000}
+,
+{
+ticker:'INDEXSP:.INX',
+name:'S&P 500',
+timezone_offset: -18000
+},
+{
+ticker:'INDEXDJX:.DJI',
+name:'Dow Jones',
+timezone_offset: -18000
+},
+{
+ticker:'INDEXNASDAQ:.IXIC',
+name:'Nasdaq',
+timezone_offset: -18000
+}];
+// retreive the short ticker name (without the exchange)
+var tokens = _ticker.split(':');
+var shortTicker = tokens[1];
+_chartConfigObject[shortTicker + '_data_5d'] = _data_5d;
+_chartConfigObject[shortTicker + '_data_5Y'] = _data_5Y;
+_chartConfigObject[shortTicker + '_data_ah'] = _data_ah;
+_chartConfigObject.enableLogCharts = true;
+_chartConfigObject.enableCompactFlags = true;
+_external_target = "";
+_emitFlashChart(
+"/finance/s/Yfogngj7H4Y/chart.swf?hl=en&gl=us",
+"/finance/s/Bxv-b2Nn5ms/fl2js/JavaScriptFlashGateway.swf",
+_ticker, _chartConfigObject,
+"/finance/s/YpwVAWxWrZw/chart9.swf?hl=en&gl=us",
+true,
+_timeZoneOffset,
+1,
+"http://www.google.com:80");
+</script>
+<noscript>
+<div id="image_chart" style="display:block;">
+<table>
+<tr><td class="itxt" align="left">
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=YHOO&x=NASD&p=3d&i=240" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+</div>
+</td>
+</tr>
+<tr>
+<td align="left">
+<span class="dis" id="tipMessage" style="display:none">Tip: You can drag the chart.</span>
+<script type="text/javascript"><!--
+          _sfjs('tipMessage');
+        //--></script>
+</td>
+<td align="right">
+<span class="dis">Volume delayed by 15 min.
+</span>
+</tr>
+</table><!-- End MARKET DATA and CHART -->
+<img alt="" src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width="400" height="1"/>
+</div>
+<script><!--
+        
+        _external_target = "";
+        _Init_State(_totalNumDivs);
+        
+          _DownloadInitialNews();
+        
+        goog.finance.renderNewsTabs();
+      // --></script>
+<div id=related>
+<div class=hdg>&nbsp;<h3>Related&nbsp;Companies</h3></div>
+<div class=content>
+<table class="item c-fixed" width="100%" cellpadding="3" cellspacing="0">
+<thead>
+<tr>
+<td class=name>Name</td>
+<td class=localName>Name</td>
+<td class=exch>Exchange&nbsp;</td>
+<td class=symbol>Symbol&nbsp;</td>
+<td class=lastTrade>Last&nbsp;Trade</td>
+<td class=starred>
+<td class=change>Change</td>
+<td class=mktCap>Mkt&nbsp;Cap</td>
+<td>&nbsp;
+</tr>
+</thead>
+<tr class="highlightGreyRelated">
+<td class=name>
+<a id="rc-1" href="/finance?q=NASDAQ:GOOG" >Google Inc.</a>
+</td>
+<td class=localName>
+<a id="rc-1" href="/finance?q=NASDAQ:GOOG" >Google Inc.</a>
+</td>
+<td class=exch>NASDAQ</td>
+<td class=symbol>
+<a id="rct-1" href="/finance?q=NASDAQ:GOOG" >GOOG</a>
+</td>
+<td class=lastTrade>
+<span id="ref_694653_l">388.74</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_694653_c">+9.24</span>
+<span class="chg" id="ref_694653_cp">(2.43%)</span></nobr>
+</td>
+<td class=mktCap>
+122.73B
+</td>
+<td>&nbsp;
+</tr>
+<tr class="highlightWhite">
+<td class=name>
+<a id="rc-2" href="/finance?q=NASDAQ:MSFT" >Microsoft Corporation</a>
+</td>
+<td class=localName>
+<a id="rc-2" href="/finance?q=NASDAQ:MSFT" >Microsoft Corporation</a>
+</td>
+<td class=exch>NASDAQ</td>
+<td class=symbol>
+<a id="rct-2" href="/finance?q=NASDAQ:MSFT" >MSFT</a>
+</td>
+<td class=lastTrade>
+<span id="ref_358464_l">19.76</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_358464_c">+0.93</span>
+<span class="chg" id="ref_358464_cp">(4.94%)</span></nobr>
+</td>
+<td class=mktCap>
+175.68B
+</td>
+<td>&nbsp;
+</tr>
+<tr class="highlightGreyRelated">
+<td class=name>
+<a id="rc-3" href="/finance?q=NYSE:TWX" >Time Warner Inc.</a>
+</td>
+<td class=localName>
+<a id="rc-3" href="/finance?q=NYSE:TWX" >Time Warner Inc.</a>
+</td>
+<td class=exch>NYSE</td>
+<td class=symbol>
+<a id="rct-3" href="/finance?q=NYSE:TWX" >TWX</a>
+</td>
+<td class=lastTrade>
+<span id="ref_655621_l">23.73</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_655621_c">+1.50</span>
+<span class="chg" id="ref_655621_cp">(6.75%)</span></nobr>
+</td>
+<td class=mktCap>
+28.39B
+</td>
+<td>&nbsp;
+</tr>
+<tr class="highlightWhite">
+<td class=name>
+<a id="rc-4" href="/finance?q=NASDAQ:NWSA" >News Corporation</a>
+</td>
+<td class=localName>
+<a id="rc-4" href="/finance?q=NASDAQ:NWSA" >News Corporation</a>
+</td>
+<td class=exch>NASDAQ</td>
+<td class=symbol>
+<a id="rct-4" href="/finance?q=NASDAQ:NWSA" >NWSA</a>
+</td>
+<td class=lastTrade>
+<span id="ref_25639_l">7.96</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_25639_c">+0.43</span>
+<span class="chg" id="ref_25639_cp">(5.71%)</span></nobr>
+</td>
+<td class=mktCap>
+20.81B
+</td>
+<td>&nbsp;
+</tr>
+<tr class="highlightGreyRelated">
+<td class=name>
+<a id="rc-5" href="/finance?q=NASDAQ:EBAY" >eBay Inc.</a>
+</td>
+<td class=localName>
+<a id="rc-5" href="/finance?q=NASDAQ:EBAY" >eBay Inc.</a>
+</td>
+<td class=exch>NASDAQ</td>
+<td class=symbol>
+<a id="rct-5" href="/finance?q=NASDAQ:EBAY" >EBAY</a>
+</td>
+<td class=lastTrade>
+<span id="ref_662654_l">14.39</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_662654_c">+0.07</span>
+<span class="chg" id="ref_662654_cp">(0.49%)</span></nobr>
+</td>
+<td class=mktCap>
+18.51B
+</td>
+<td>&nbsp;
+</tr>
+<tr class="highlightWhite">
+<td class=name>
+<a id="rc-6" href="/finance?q=NYSE:VIA.B" >Viacom, Inc.</a>
+</td>
+<td class=localName>
+<a id="rc-6" href="/finance?q=NYSE:VIA.B" >Viacom, Inc.</a>
+</td>
+<td class=exch>NYSE</td>
+<td class=symbol>
+<a id="rct-6" href="/finance?q=NYSE:VIA.B" >VIA.B</a>
+</td>
+<td class=lastTrade>
+<span id="ref_703770_l">19.48</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_703770_c">+0.63</span>
+<span class="chg" id="ref_703770_cp">(3.34%)</span></nobr>
+</td>
+<td class=mktCap>
+11.81B
+</td>
+<td>&nbsp;
+</tr>
+<tr class="highlightGreyRelated">
+<td class=name>
+<a id="rc-7" href="/finance?q=NYSE:T" >AT&T Inc.</a>
+</td>
+<td class=localName>
+<a id="rc-7" href="/finance?q=NYSE:T" >AT&T Inc.</a>
+</td>
+<td class=exch>NYSE</td>
+<td class=symbol>
+<a id="rct-7" href="/finance?q=NYSE:T" >T</a>
+</td>
+<td class=lastTrade>
+<span id="ref_33312_l">25.99</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_33312_c">+0.54</span>
+<span class="chg" id="ref_33312_cp">(2.12%)</span></nobr>
+</td>
+<td class=mktCap>
+153.17B
+</td>
+<td>&nbsp;
+</tr>
+<tr class="highlightWhite">
+<td class=name>
+<a id="rc-8" href="/finance?q=NASDAQ:SOHU" >Sohu.com Inc.</a>
+</td>
+<td class=localName>
+<a id="rc-8" href="/finance?q=NASDAQ:SOHU" >Sohu.com Inc.</a>
+</td>
+<td class=exch>NASDAQ</td>
+<td class=symbol>
+<a id="rct-8" href="/finance?q=NASDAQ:SOHU" >SOHU</a>
+</td>
+<td class=lastTrade>
+<span id="ref_664977_l">49.70</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_664977_c">+0.39</span>
+<span class="chg" id="ref_664977_cp">(0.79%)</span></nobr>
+</td>
+<td class=mktCap>
+1.89B
+</td>
+<td>&nbsp;
+</tr>
+<tr class="highlightGreyRelated">
+<td class=name>
+<a id="rc-9" href="/finance?q=NYSE:DIS" >The Walt Disney Company</a>
+</td>
+<td class=localName>
+<a id="rc-9" href="/finance?q=NYSE:DIS" >The Walt Disney Company</a>
+</td>
+<td class=exch>NYSE</td>
+<td class=symbol>
+<a id="rct-9" href="/finance?q=NYSE:DIS" >DIS</a>
+</td>
+<td class=lastTrade>
+<span id="ref_38249_l">20.51</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_38249_c">+0.78</span>
+<span class="chg" id="ref_38249_cp">(3.95%)</span></nobr>
+</td>
+<td class=mktCap>
+38.07B
+</td>
+<td>&nbsp;
+</tr>
+<tr class="highlightWhite">
+<td class=name>
+<a id="rc-10" href="/finance?q=NASDAQ:ANSW" >Answers Corporation</a>
+</td>
+<td class=localName>
+<a id="rc-10" href="/finance?q=NASDAQ:ANSW" >Answers Corporation</a>
+</td>
+<td class=exch>NASDAQ</td>
+<td class=symbol>
+<a id="rct-10" href="/finance?q=NASDAQ:ANSW" >ANSW</a>
+</td>
+<td class=lastTrade>
+<span id="ref_695974_l">6.75</span>
+</td>
+<td class="starred lft">
+</td>
+<td class=change><nobr>
+<span class="chg" id="ref_695974_c">+0.32</span>
+<span class="chg" id="ref_695974_cp">(4.98%)</span></nobr>
+</td>
+<td class=mktCap>
+53.16M
+</td>
+<td>&nbsp;
+</tr>
+</table> <!-- End RELATED COMPANIES -->
+<div class=item>
+Sector:&nbsp;<a id=sector href=?catid=us-54835206 >Services</a>&nbsp;&gt;&nbsp;
+Industry:&nbsp;<a href=?catid=us-57143207 >Business Services</a>
+</div>
+</div>
+</div>
+<script>_tck('aft');</script>
+<div id=financials>
+<div class=hdg>&nbsp;<h3>Financials</h3>&nbsp;(In millions of USD)</div>
+<div class=content>
+<table class="item rgt c-fixed" width=100% id=fd cellspacing=0 cellpadding=3>
+<tr>
+<td class="lft gb" valign=bottom style="padding-top:0.5em;">
+<a id=inc href=?fstype=ii&q=NASDAQ:YHOO>Income Statement</a>
+<td class=period valign=top>Q4 (Dec '08)
+</td>
+<td class=period valign=top>
+Annual<br>(2008)
+</td>
+<td class=period valign=top>
+Annual<br>(2007)
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft gb">Total Revenue</td>
+<td class=period>
+1,806.39
+<td class=period>
+7,208.50
+<td class=period>
+6,969.27
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightWhite>
+<td class="lft gb">Gross Profit</td>
+<td class=period>
+1,076.30
+<td class=period>
+4,185.14
+<td class=period>
+4,130.52
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft gb">Operating Income</td>
+<td class=period>
+-278.35
+<td class=period>
+12.96
+<td class=period>
+695.41
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightWhite>
+<td class="lft gb">Net Income</td>
+<td class=period>
+-303.43
+<td class=period>
+424.30
+<td class=period>
+660.00
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="lft gb" valign=bottom style="padding-top:0.5em;">
+<a id=bal href=?fstype=bi&q=NASDAQ:YHOO>Balance Sheet</a>
+<td><td><td>
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft gb">Total Current Assets</td>
+<td class=period>
+4,745.50
+<td class=period>
+4,745.50
+<td class=period>
+3,237.72
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightWhite>
+<td class="lft gb">Total Assets</td>
+<td class=period>
+13,689.85
+<td class=period>
+13,689.85
+<td class=period>
+12,229.74
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft gb">Total Current Liabilities</td>
+<td class=period>
+1,705.02
+<td class=period>
+1,705.02
+<td class=period>
+2,300.45
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightWhite>
+<td class="lft gb">Total Liabilities</td>
+<td class=period>
+2,438.91
+<td class=period>
+2,438.91
+<td class=period>
+2,696.91
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft gb">Total Equity</td>
+<td class=period>
+11,250.94
+<td class=period>
+11,250.94
+<td class=period>
+9,532.83
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="lft gb" valign=bottom style="padding-top:0.5em;">
+<a id=cash href=?fstype=ci&q=NASDAQ:YHOO>Cash Flow</a>
+<td><td><td>
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft gb">Net Income/Starting Line</td>
+<td class=period>
+424.30
+<td class=period>
+424.30
+<td class=period>
+660.00
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightWhite>
+<td class="lft gb">Cash from Operating Activities</td>
+<td class=period>
+1,880.24
+<td class=period>
+1,880.24
+<td class=period>
+1,918.90
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft gb">Cash from Investing Activities</td>
+<td class=period>
+-1,311.78
+<td class=period>
+-1,311.78
+<td class=period>
+-572.50
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightWhite>
+<td class="lft gb">Cash from Financing Activities</td>
+<td class=period>
+332.41
+<td class=period>
+332.41
+<td class=period>
+-1,442.01
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft gb">Net Change in Cash</td>
+<td class=period>
+778.37
+<td class=period>
+778.37
+<td class=period>
+-55.94
+<td>&nbsp;</td>
+</tr>
+</table>
+</div>
+</div>
+<div id=keyratios>
+<div class=hdg>&nbsp;<h3>Key Stats & Ratios</h3></div>
+<div class=content>
+<table class="item rgt c-fixed" width="100%" cellspacing=0 cellpadding=3 style="white-space:nowrap">
+<tr>
+<td class="name lft">
+<td class=period valign=top>Q4 (Dec '08)
+<td class=period valign=top>Annual<br>(2008)
+<td class=period valign=top>Annual<br>(TTM)
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft name">
+Net profit margin</td>
+<td class=period>
+-19.94%
+</td>
+<td class=period>
+-2.32%
+</td>
+<td class=period>
+-2.32%
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightWhite>
+<td class="lft name">
+Operating margin</td>
+<td class=period>
+-15.41%
+</td>
+<td class=period>
+0.18%
+</td>
+<td class=period>
+0.18%
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft name">
+EBITD margin</td>
+<td class=period>
+-
+</td>
+<td class=period>
+11.14%
+</td>
+<td class=period>
+11.14%
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightWhite>
+<td class="lft name">
+Return on average assets</td>
+<td class=period>
+-10.47%
+</td>
+<td class=period>
+-1.29%
+</td>
+<td class=period>
+-1.29%
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightGrey>
+<td class="lft name">
+Return on average equity</td>
+<td class=period>
+-10.65%
+</td>
+<td class=period>
+4.08%
+</td>
+<td class=period>
+4.08%
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class=highlightWhite>
+<td class="lft name">
+Employees</td>
+<td class=period>
+13,600
+</td>
+<td class=period>
+-
+</td>
+<td class=period>
+-
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr><td class="lft gb" colspan=2>
+<a id="m-rratio" href="http://stocks.us.reuters.com/stocks/ratios.asp?rpc=66&symbol=YHOO.O" >More ratios from Thomson Reuters &raquo;</a>
+</td></tr>
+</table>
+</div>
+</div>
+<div id=summary>
+<div class=hdg>&nbsp;<h3>Summary</h3></div>
+<div class=content>
+<div class="item companySummary">
+Yahoo! Inc. (Yahoo!), together with its consolidated subsidiaries, is a global Internet brand. Together with its owned and operated online properties and services (Yahoo! Properties or Owned and Operated sites), the Company also provides its advertising offerings and access to Internet users beyond Yahoo! through its distribution network of third-party entities (Affiliates), who have integrated its advertising offerings into their Websites, referred to as Affiliate sites, or their other offerings. The Company generates revenues by providing marketing services to advertisers across a majority of Yahoo! Properties and Affiliate sites. The Company provides services in more than 30 languages and in more than 30 countries, regions, and territories, including localized versions of Yahoo!. Its offerings to users on Yahoo! Properties fall into six categories: Front Doors, Communities, Search, Communications, Audience, and Connected Life.
+<a id="m-rprofile" href="http://stocks.us.reuters.com/stocks/fullDescription.asp?rpc=66&symbol=YHOO.O" >More&nbsp;from&nbsp;Reuters&nbsp;&raquo;</a>
+</div>
+<table class=item style="line-height:1.3em;" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td valign=top width="40%">
+701 First Avenue
+<br/>
+Sunnyvale, CA 94089
+<br/>
+United States
+- <a href="http://maps.google.com/maps?q=701+First+Avenue+Sunnyvale+94089+United+States%20(Yahoo!+Inc.)" >Map</a>
+<br/>
++1-408-3493300&nbsp;(Phone)<br>
++1-408-3493301&nbsp;(Fax)<br>
+</td>
+<td valign=top width="60%" style="padding-left:1em">
+Company website:<br>
+<a id="fs-chome" href="http://www.yahoo.com" >
+http://www.yahoo.com
+</a><br>
+<a id="fs-" href="http://yhoo.client.shareholder.com/press/releases.cfm" >News&nbsp;Releases</a>,
+<a id="fs-" href="http://yhoo.client.shareholder.com/" >Investor&nbsp;Relations</a>,
+<a id="fs-" href="http://yhoo.client.shareholder.com/sec.cfm?DocType=Annual" >Financial&nbsp;Information</a>,
+<a id="fs-" href="http://yhoo.client.shareholder.com/press/overview.cfm" >Corporate&nbsp;History/Profile</a>,
+<a id="fs-" href="http://yhoo.client.shareholder.com/press/management.cfm" >Executives</a>,
+<a id="fs-" href="http://downloads.yahoo.com/" >Products/Services</a>,
+<a id="fs-" href="https://yahoo.recruitmax.com/MAIN/careerportal/default.cfm?szUniqueCareerPortalID=c6adc077-1670-4bb6-bcc1-f57811da1380" >Employment&nbsp;Opportunities</a>, <a id="fs-" href="http://ysearchblog.com" >Official&nbsp;Blog</a>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>International Google Finance:&nbsp;&nbsp;
+<a href="http://www.google.ca/finance" >Canada</a>&nbsp;-
+<a href="http://www.google.co.uk/finance" >U.K.</a>&nbsp;-
+<a href="http://www.google.com/finance?gl=cn" >&#31616;&#20307;&#20013;&#25991; (China)</a>&nbsp;-
+<a href="http://www.google.com.hk/finance" >&#39321;&#28207;&#29256; (Hong Kong)</a>
+</div>
+<div class=footerDisclaimer>
+Information is provided 'as is' and solely for informational purposes, not
+for trading purposes or advice, and may be delayed.<br/>
+To see all exchange delays, please
+<a href=
+    "http://www.google.com/intl/en-US/help/stock_disclaimer.html"
+  style="color:#7777cc">see disclaimer</a>.
+<br><br>
+</div>
+<div class=footerLinks>
+&copy;2009 Google &nbsp;&nbsp;
+<a href="http://www.google.com" class=q>Google Home</a>
+- <a href=
+  "http://www.google.com/support/finance?hl=en-US"
+ class=q>Help</a>
+- <a href="http://www.google.com/intl/en-US/privacy.html" class=q>Privacy Policy</a>
+- <a href="http://www.google.com/accounts/TOS?loc=us" class=q>Terms of Service</a><br><br><br>
+</div>
+</div>
+</center>
+</div>
+<script>
+<!--
+
+  
+   
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+    
+  
+
+
+  
+
+
+title = "YHOO: {LAST} {CHANGE} ({CHANGE_PCT}%) - Yahoo! Inc.";
+  
+    window.google.Quote.addQuote(
+     "NASD:YHOO",
+     "658890", title);
+    window.google.Quote.streamQuotes();
+    
+      
+        window.google.Quote.addQuote(
+          "NASD:GOOG",
+          "694653");
+      
+        window.google.Quote.addQuote(
+          "NASD:MSFT",
+          "358464");
+      
+        window.google.Quote.addQuote(
+          "NYSE:TWX",
+          "655621");
+      
+        window.google.Quote.addQuote(
+          "NASD:NWSA",
+          "25639");
+      
+        window.google.Quote.addQuote(
+          "NASD:EBAY",
+          "662654");
+      
+        window.google.Quote.addQuote(
+          "NYSE:VIA.B",
+          "703770");
+      
+        window.google.Quote.addQuote(
+          "NYSE:T",
+          "33312");
+      
+        window.google.Quote.addQuote(
+          "NASD:SOHU",
+          "664977");
+      
+        window.google.Quote.addQuote(
+          "NYSE:DIS",
+          "38249");
+      
+        window.google.Quote.addQuote(
+          "NASD:ANSW",
+          "695974");
+      
+    
+
+  
+
+//-->
+</script>
+</td></tr></table>
+</div>
+</div>
+<div id=ad-source class=hide>
+<script language=javascript>
+google_ad_client = 'ca-google-finance_html';
+google_ad_format = '300x250_as';
+google_ad_channel = 'company+nohints+text_image+services+large_cap';
+google_ad_type = 'text_image';
+google_ad_height = '250';
+google_ad_width = '300';
+google_language = 'en';
+google_page_url = 'http://finance.google.com?q=NASDAQ:YHOO';
+google_alternate_color = 'FFFFFF';
+google_color_border = '89A9E4';
+google_color_bg = 'FFFFFF';
+google_color_link = '0000CC';
+google_color_text = '000000';
+google_color_url = '008000';
+</script>
+<script language=javascript
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</body>
+</html>
